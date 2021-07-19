@@ -1,0 +1,2711 @@
+biosample_class	sample	experiment	doc_count
+tissue	forelimb	scRNA-seq	1046
+tissue	forelimb	long read RNA-seq	2
+tissue	liver	Histone ChIP-seq	91
+tissue	liver	TF ChIP-seq	42
+tissue	liver	polyA plus RNA-seq	20
+tissue	liver	DNase-seq	9
+tissue	liver	WGBS	9
+tissue	liver	ATAC-seq	7
+tissue	liver	microRNA counts	7
+tissue	liver	microRNA-seq	7
+tissue	liver	total RNA-seq	3
+tissue	liver	RAMPAGE	2
+tissue	liver	DNAme array	1
+tissue	liver	RRBS	1
+tissue	liver	small RNA-seq	1
+tissue	stomach	Histone ChIP-seq	72
+tissue	stomach	DNase-seq	22
+tissue	stomach	TF ChIP-seq	17
+tissue	stomach	polyA plus RNA-seq	15
+tissue	stomach	WGBS	10
+tissue	stomach	ATAC-seq	6
+tissue	stomach	RAMPAGE	5
+tissue	stomach	total RNA-seq	5
+tissue	stomach	microRNA counts	4
+tissue	stomach	microRNA-seq	4
+tissue	stomach	small RNA-seq	4
+tissue	stomach	DNAme array	3
+tissue	stomach	RRBS	1
+tissue	heart	Histone ChIP-seq	79
+tissue	heart	DNase-seq	25
+tissue	heart	polyA plus RNA-seq	16
+tissue	heart	WGBS	10
+tissue	heart	microRNA-seq	9
+tissue	heart	microRNA counts	8
+tissue	heart	ATAC-seq	7
+tissue	heart	TF ChIP-seq	5
+tissue	heart	total RNA-seq	3
+tissue	heart	RAMPAGE	2
+tissue	heart	small RNA-seq	1
+tissue	middle frontal area 46	Histone ChIP-seq	103
+tissue	middle frontal area 46	DNase-seq	54
+tissue	adrenal gland	Histone ChIP-seq	38
+tissue	adrenal gland	DNase-seq	24
+tissue	adrenal gland	total RNA-seq	20
+tissue	adrenal gland	polyA plus RNA-seq	11
+tissue	adrenal gland	ATAC-seq	8
+tissue	adrenal gland	microRNA-seq	8
+tissue	adrenal gland	TF ChIP-seq	7
+tissue	adrenal gland	DNAme array	5
+tissue	adrenal gland	WGBS	5
+tissue	adrenal gland	RAMPAGE	4
+tissue	adrenal gland	long read RNA-seq	4
+tissue	adrenal gland	eCLIP	2
+tissue	adrenal gland	microRNA counts	2
+tissue	adrenal gland	small RNA-seq	2
+tissue	adrenal gland	RRBS	1
+tissue	spleen	Histone ChIP-seq	64
+tissue	spleen	TF ChIP-seq	19
+tissue	spleen	polyA plus RNA-seq	11
+tissue	spleen	total RNA-seq	8
+tissue	spleen	DNase-seq	7
+tissue	spleen	WGBS	6
+tissue	spleen	DNAme array	4
+tissue	spleen	RAMPAGE	4
+tissue	spleen	small RNA-seq	4
+tissue	spleen	microRNA-seq	3
+tissue	spleen	ATAC-seq	1
+tissue	spleen	microRNA counts	1
+tissue	lung	Histone ChIP-seq	58
+tissue	lung	DNase-seq	20
+tissue	lung	polyA plus RNA-seq	11
+tissue	lung	WGBS	7
+tissue	lung	TF ChIP-seq	6
+tissue	lung	ATAC-seq	5
+tissue	lung	microRNA counts	4
+tissue	lung	microRNA-seq	4
+tissue	lung	DNAme array	2
+tissue	lung	total RNA-seq	2
+tissue	lung	RAMPAGE	1
+tissue	lung	RRBS	1
+tissue	lung	small RNA-seq	1
+tissue	kidney	Histone ChIP-seq	55
+tissue	kidney	DNase-seq	24
+tissue	kidney	polyA plus RNA-seq	13
+tissue	kidney	WGBS	5
+tissue	kidney	microRNA-seq	5
+tissue	kidney	ATAC-seq	4
+tissue	kidney	TF ChIP-seq	4
+tissue	kidney	microRNA counts	4
+tissue	kidney	DNAme array	2
+tissue	kidney	FAIRE-seq	1
+tissue	kidney	RRBS	1
+tissue	kidney	long read RNA-seq	1
+tissue	kidney	total RNA-seq	1
+tissue	forebrain	Histone ChIP-seq	62
+tissue	forebrain	microRNA-seq	9
+tissue	forebrain	WGBS	8
+tissue	forebrain	microRNA counts	8
+tissue	forebrain	polyA plus RNA-seq	8
+tissue	forebrain	snATAC-seq	8
+tissue	forebrain	ATAC-seq	7
+tissue	forebrain	DNase-seq	4
+tissue	forebrain	TF ChIP-seq	1
+tissue	forebrain	total RNA-seq	1
+tissue	midbrain	Histone ChIP-seq	62
+tissue	midbrain	WGBS	8
+tissue	midbrain	microRNA counts	8
+tissue	midbrain	microRNA-seq	8
+tissue	midbrain	polyA plus RNA-seq	8
+tissue	midbrain	ATAC-seq	7
+tissue	midbrain	DNase-seq	5
+tissue	midbrain	TF ChIP-seq	1
+tissue	midbrain	total RNA-seq	1
+tissue	hindbrain	Histone ChIP-seq	62
+tissue	hindbrain	WGBS	8
+tissue	hindbrain	microRNA counts	8
+tissue	hindbrain	polyA plus RNA-seq	8
+tissue	hindbrain	ATAC-seq	7
+tissue	hindbrain	microRNA-seq	7
+tissue	hindbrain	DNase-seq	4
+tissue	hindbrain	TF ChIP-seq	1
+tissue	hindbrain	total RNA-seq	1
+tissue	heart left ventricle	Histone ChIP-seq	37
+tissue	heart left ventricle	DNase-seq	10
+tissue	heart left ventricle	TF ChIP-seq	9
+tissue	heart left ventricle	ATAC-seq	7
+tissue	heart left ventricle	microRNA-seq	5
+tissue	heart left ventricle	total RNA-seq	5
+tissue	heart left ventricle	WGBS	4
+tissue	heart left ventricle	long read RNA-seq	4
+tissue	heart left ventricle	DNAme array	3
+tissue	heart left ventricle	RAMPAGE	2
+tissue	heart left ventricle	microRNA counts	2
+tissue	heart left ventricle	polyA plus RNA-seq	2
+tissue	heart left ventricle	RRBS	1
+tissue	head of caudate nucleus	DNase-seq	84
+tissue	limb	Histone ChIP-seq	46
+tissue	limb	polyA plus RNA-seq	8
+tissue	limb	WGBS	6
+tissue	limb	microRNA counts	6
+tissue	limb	microRNA-seq	6
+tissue	limb	ATAC-seq	5
+tissue	limb	DNase-seq	5
+tissue	limb	TF ChIP-seq	1
+tissue	sigmoid colon	Histone ChIP-seq	35
+tissue	sigmoid colon	TF ChIP-seq	16
+tissue	sigmoid colon	polyA plus RNA-seq	5
+tissue	sigmoid colon	ATAC-seq	4
+tissue	sigmoid colon	DNAme array	4
+tissue	sigmoid colon	RAMPAGE	4
+tissue	sigmoid colon	small RNA-seq	4
+tissue	sigmoid colon	total RNA-seq	4
+tissue	sigmoid colon	DNase-seq	3
+tissue	sigmoid colon	WGBS	2
+tissue	transverse colon	Histone ChIP-seq	21
+tissue	transverse colon	TF ChIP-seq	16
+tissue	transverse colon	WGS	10
+tissue	transverse colon	ATAC-seq	4
+tissue	transverse colon	DNAme array	4
+tissue	transverse colon	DNase-seq	4
+tissue	transverse colon	Hi-C	4
+tissue	transverse colon	RAMPAGE	4
+tissue	transverse colon	genotyping array	4
+tissue	transverse colon	small RNA-seq	4
+tissue	transverse colon	total RNA-seq	4
+tissue	transverse colon	WGBS	2
+tissue	embryonic facial prominence	Histone ChIP-seq	46
+tissue	embryonic facial prominence	WGBS	6
+tissue	embryonic facial prominence	microRNA counts	6
+tissue	embryonic facial prominence	microRNA-seq	6
+tissue	embryonic facial prominence	polyA plus RNA-seq	6
+tissue	embryonic facial prominence	ATAC-seq	5
+tissue	embryonic facial prominence	DNase-seq	4
+tissue	neural tube	Histone ChIP-seq	40
+tissue	neural tube	microRNA counts	6
+tissue	neural tube	microRNA-seq	6
+tissue	neural tube	polyA plus RNA-seq	6
+tissue	neural tube	ATAC-seq	5
+tissue	neural tube	WGBS	5
+tissue	neural tube	DNase-seq	2
+tissue	upper lobe of left lung	Histone ChIP-seq	24
+tissue	upper lobe of left lung	TF ChIP-seq	17
+tissue	upper lobe of left lung	DNase-seq	7
+tissue	upper lobe of left lung	total RNA-seq	6
+tissue	upper lobe of left lung	DNAme array	4
+tissue	upper lobe of left lung	RAMPAGE	4
+tissue	upper lobe of left lung	small RNA-seq	4
+tissue	upper lobe of left lung	WGBS	2
+tissue	pancreas	Histone ChIP-seq	34
+tissue	pancreas	DNase-seq	8
+tissue	pancreas	ATAC-seq	5
+tissue	pancreas	total RNA-seq	5
+tissue	pancreas	TF ChIP-seq	4
+tissue	pancreas	polyA plus RNA-seq	4
+tissue	pancreas	WGBS	2
+tissue	pancreas	microRNA-seq	2
+tissue	pancreas	DNAme array	1
+tissue	pancreas	FAIRE-seq	1
+tissue	pancreas	RRBS	1
+tissue	ovary	Histone ChIP-seq	10
+tissue	ovary	DNase-seq	9
+tissue	ovary	polyA plus RNA-seq	9
+tissue	ovary	total RNA-seq	8
+tissue	ovary	TF ChIP-seq	5
+tissue	ovary	ATAC-seq	4
+tissue	ovary	microRNA-seq	4
+tissue	ovary	CAGE	3
+tissue	ovary	WGBS	3
+tissue	ovary	long read RNA-seq	3
+tissue	ovary	DNAme array	2
+tissue	ovary	RAMPAGE	2
+tissue	ovary	PAS-seq	1
+tissue	ovary	microRNA counts	1
+tissue	ovary	small RNA-seq	1
+tissue	placenta	DNase-seq	22
+tissue	placenta	Histone ChIP-seq	21
+tissue	placenta	total RNA-seq	11
+tissue	placenta	microRNA-seq	3
+tissue	placenta	polyA plus RNA-seq	3
+tissue	placenta	DNAme array	1
+tissue	placenta	RRBS	1
+tissue	placenta	WGBS	1
+tissue	thyroid gland	Histone ChIP-seq	23
+tissue	thyroid gland	TF ChIP-seq	9
+tissue	thyroid gland	RAMPAGE	5
+tissue	thyroid gland	total RNA-seq	5
+tissue	thyroid gland	DNAme array	4
+tissue	thyroid gland	DNase-seq	4
+tissue	thyroid gland	ATAC-seq	3
+tissue	thyroid gland	WGBS	2
+tissue	thyroid gland	microRNA counts	2
+tissue	thyroid gland	microRNA-seq	2
+tissue	thyroid gland	small RNA-seq	2
+tissue	small intestine	Histone ChIP-seq	24
+tissue	small intestine	DNase-seq	13
+tissue	small intestine	polyA plus RNA-seq	13
+tissue	small intestine	WGBS	5
+tissue	small intestine	TF ChIP-seq	2
+tissue	small intestine	DNAme array	1
+tissue	small intestine	FAIRE-seq	1
+tissue	small intestine	genotyping array	1
+tissue	gastrocnemius medialis	Histone ChIP-seq	24
+tissue	gastrocnemius medialis	TF ChIP-seq	7
+tissue	gastrocnemius medialis	DNase-seq	6
+tissue	gastrocnemius medialis	ATAC-seq	4
+tissue	gastrocnemius medialis	Hi-C	4
+tissue	gastrocnemius medialis	total RNA-seq	4
+tissue	gastrocnemius medialis	DNAme array	3
+tissue	gastrocnemius medialis	RAMPAGE	3
+tissue	gastrocnemius medialis	microRNA counts	2
+tissue	gastrocnemius medialis	microRNA-seq	2
+tissue	body of pancreas	Histone ChIP-seq	18
+tissue	body of pancreas	TF ChIP-seq	11
+tissue	body of pancreas	ATAC-seq	4
+tissue	body of pancreas	DNAme array	4
+tissue	body of pancreas	DNase-seq	4
+tissue	body of pancreas	RAMPAGE	2
+tissue	body of pancreas	WGBS	2
+tissue	body of pancreas	microRNA counts	2
+tissue	body of pancreas	microRNA-seq	2
+tissue	body of pancreas	small RNA-seq	2
+tissue	body of pancreas	total RNA-seq	2
+tissue	heart right ventricle	Histone ChIP-seq	21
+tissue	heart right ventricle	ATAC-seq	10
+tissue	heart right ventricle	DNase-seq	10
+tissue	heart right ventricle	long read RNA-seq	3
+tissue	heart right ventricle	total RNA-seq	3
+tissue	heart right ventricle	TF ChIP-seq	2
+tissue	heart right ventricle	WGBS	2
+tissue	heart right ventricle	polyA plus RNA-seq	2
+tissue	intestine	Histone ChIP-seq	32
+tissue	intestine	ATAC-seq	4
+tissue	intestine	WGBS	4
+tissue	intestine	microRNA counts	4
+tissue	intestine	polyA plus RNA-seq	4
+tissue	intestine	microRNA-seq	3
+tissue	intestine	DNase-seq	1
+tissue	intestine	TF ChIP-seq	1
+tissue	testis	Histone ChIP-seq	14
+tissue	testis	polyA plus RNA-seq	7
+tissue	testis	TF ChIP-seq	6
+tissue	testis	DNase-seq	5
+tissue	testis	total RNA-seq	3
+tissue	testis	CAGE	2
+tissue	testis	DNAme array	2
+tissue	testis	PAS-seq	2
+tissue	testis	RAMPAGE	2
+tissue	testis	WGBS	2
+tissue	testis	microRNA counts	2
+tissue	testis	microRNA-seq	2
+tissue	testis	small RNA-seq	2
+tissue	testis	ATAC-seq	1
+tissue	testis	RRBS	1
+tissue	esophagus muscularis mucosa	Histone ChIP-seq	24
+tissue	esophagus muscularis mucosa	TF ChIP-seq	10
+tissue	esophagus muscularis mucosa	DNAme array	4
+tissue	esophagus muscularis mucosa	RAMPAGE	4
+tissue	esophagus muscularis mucosa	total RNA-seq	4
+tissue	esophagus muscularis mucosa	small RNA-seq	3
+tissue	esophagus muscularis mucosa	ATAC-seq	1
+tissue	esophagus muscularis mucosa	DNase-seq	1
+tissue	esophagus muscularis mucosa	WGBS	1
+tissue	tibial nerve	Histone ChIP-seq	24
+tissue	tibial nerve	TF ChIP-seq	10
+tissue	tibial nerve	DNAme array	4
+tissue	tibial nerve	total RNA-seq	4
+tissue	tibial nerve	DNase-seq	3
+tissue	tibial nerve	RAMPAGE	3
+tissue	tibial nerve	WGBS	2
+tissue	tibial nerve	ATAC-seq	1
+tissue	tibial nerve	small RNA-seq	1
+tissue	esophagus squamous epithelium	Histone ChIP-seq	21
+tissue	esophagus squamous epithelium	TF ChIP-seq	10
+tissue	esophagus squamous epithelium	DNAme array	4
+tissue	esophagus squamous epithelium	RAMPAGE	4
+tissue	esophagus squamous epithelium	small RNA-seq	4
+tissue	esophagus squamous epithelium	total RNA-seq	4
+tissue	esophagus squamous epithelium	WGBS	2
+tissue	esophagus squamous epithelium	ATAC-seq	1
+tissue	esophagus squamous epithelium	DNase-seq	1
+tissue	thymus	Histone ChIP-seq	17
+tissue	thymus	DNase-seq	15
+tissue	thymus	polyA plus RNA-seq	11
+tissue	thymus	WGBS	3
+tissue	thymus	TF ChIP-seq	2
+tissue	thymus	microRNA counts	1
+tissue	thymus	microRNA-seq	1
+tissue	Peyer's patch	Histone ChIP-seq	23
+tissue	Peyer's patch	TF ChIP-seq	8
+tissue	Peyer's patch	DNase-seq	4
+tissue	Peyer's patch	RAMPAGE	4
+tissue	Peyer's patch	total RNA-seq	4
+tissue	Peyer's patch	DNAme array	3
+tissue	Peyer's patch	small RNA-seq	2
+tissue	Peyer's patch	ATAC-seq	1
+tissue	gastroesophageal sphincter	Histone ChIP-seq	16
+tissue	gastroesophageal sphincter	TF ChIP-seq	13
+tissue	gastroesophageal sphincter	DNAme array	4
+tissue	gastroesophageal sphincter	RAMPAGE	4
+tissue	gastroesophageal sphincter	small RNA-seq	4
+tissue	gastroesophageal sphincter	total RNA-seq	4
+tissue	gastroesophageal sphincter	ATAC-seq	2
+tissue	gastroesophageal sphincter	WGBS	2
+tissue	brain	DNase-seq	17
+tissue	brain	Histone ChIP-seq	12
+tissue	brain	polyA plus RNA-seq	6
+tissue	brain	TF ChIP-seq	2
+tissue	brain	microRNA-seq	2
+tissue	brain	DNAme array	1
+tissue	brain	RRBS	1
+tissue	layer of hippocampus	Histone ChIP-seq	19
+tissue	layer of hippocampus	total RNA-seq	12
+tissue	layer of hippocampus	long read RNA-seq	5
+tissue	layer of hippocampus	microRNA-seq	4
+tissue	layer of hippocampus	polyA plus RNA-seq	1
+tissue	left lung	DNase-seq	15
+tissue	left lung	Histone ChIP-seq	12
+tissue	left lung	polyA plus RNA-seq	6
+tissue	left lung	long read RNA-seq	2
+tissue	left lung	microRNA-seq	2
+tissue	left lung	total RNA-seq	2
+tissue	left lung	ATAC-seq	1
+tissue	left lung	TF ChIP-seq	1
+tissue	posterior cingulate gyrus	DNase-seq	41
+tissue	head	polyA plus RNA-seq	20
+tissue	head	total RNA-seq	9
+tissue	head	CAGE	4
+tissue	head	PAS-seq	4
+tissue	prostate gland	Histone ChIP-seq	9
+tissue	prostate gland	TF ChIP-seq	8
+tissue	prostate gland	DNAme array	3
+tissue	prostate gland	RAMPAGE	2
+tissue	prostate gland	RNA microarray	2
+tissue	prostate gland	microRNA counts	2
+tissue	prostate gland	microRNA-seq	2
+tissue	prostate gland	small RNA-seq	2
+tissue	prostate gland	total RNA-seq	2
+tissue	prostate gland	ATAC-seq	1
+tissue	prostate gland	DNase-seq	1
+tissue	prostate gland	RNA-PET	1
+tissue	prostate gland	WGBS	1
+tissue	right lobe of liver	ATAC-seq	6
+tissue	right lobe of liver	DNase-seq	5
+tissue	right lobe of liver	Histone ChIP-seq	5
+tissue	right lobe of liver	total RNA-seq	5
+tissue	right lobe of liver	microRNA-seq	4
+tissue	right lobe of liver	RAMPAGE	2
+tissue	right lobe of liver	TF ChIP-seq	2
+tissue	right lobe of liver	long read RNA-seq	2
+tissue	right lobe of liver	small RNA-seq	2
+tissue	right lobe of liver	DNAme array	1
+tissue	right lobe of liver	WGBS	1
+tissue	right lobe of liver	microRNA counts	1
+tissue	uterus	Histone ChIP-seq	12
+tissue	uterus	TF ChIP-seq	6
+tissue	uterus	total RNA-seq	3
+tissue	uterus	DNAme array	2
+tissue	uterus	DNase-seq	2
+tissue	uterus	RAMPAGE	2
+tissue	uterus	microRNA counts	2
+tissue	uterus	microRNA-seq	2
+tissue	uterus	small RNA-seq	2
+tissue	uterus	ATAC-seq	1
+tissue	uterus	RRBS	1
+tissue	breast epithelium	Histone ChIP-seq	13
+tissue	breast epithelium	TF ChIP-seq	8
+tissue	breast epithelium	ATAC-seq	3
+tissue	breast epithelium	DNAme array	3
+tissue	breast epithelium	total RNA-seq	3
+tissue	breast epithelium	DNase-seq	2
+tissue	breast epithelium	RAMPAGE	2
+tissue	chorionic villus	Histone ChIP-seq	24
+tissue	chorionic villus	microRNA-seq	4
+tissue	chorionic villus	polyA plus RNA-seq	4
+tissue	large intestine	DNase-seq	15
+tissue	large intestine	polyA plus RNA-seq	9
+tissue	large intestine	Histone ChIP-seq	6
+tissue	large intestine	WGBS	2
+tissue	skeletal muscle tissue	Histone ChIP-seq	19
+tissue	skeletal muscle tissue	DNAme array	2
+tissue	skeletal muscle tissue	RRBS	2
+tissue	skeletal muscle tissue	microRNA-seq	2
+tissue	skeletal muscle tissue	polyA plus RNA-seq	2
+tissue	skeletal muscle tissue	DNase-seq	1
+tissue	skeletal muscle tissue	RAMPAGE	1
+tissue	skeletal muscle tissue	microRNA counts	1
+tissue	skeletal muscle tissue	small RNA-seq	1
+tissue	skeletal muscle tissue	total RNA-seq	1
+tissue	subcutaneous abdominal adipose tissue	Histone ChIP-seq	31
+tissue	suprapubic skin	TF ChIP-seq	10
+tissue	suprapubic skin	Histone ChIP-seq	6
+tissue	suprapubic skin	DNAme array	4
+tissue	suprapubic skin	RAMPAGE	4
+tissue	suprapubic skin	total RNA-seq	4
+tissue	suprapubic skin	DNase-seq	2
+tissue	suprapubic skin	WGBS	1
+tissue	psoas muscle	Histone ChIP-seq	11
+tissue	psoas muscle	DNase-seq	5
+tissue	psoas muscle	ATAC-seq	4
+tissue	psoas muscle	WGBS	3
+tissue	psoas muscle	polyA plus RNA-seq	3
+tissue	psoas muscle	long read RNA-seq	2
+tissue	psoas muscle	total RNA-seq	2
+tissue	muscle of arm	DNase-seq	17
+tissue	muscle of arm	polyA plus RNA-seq	12
+tissue	muscle of leg	DNase-seq	13
+tissue	muscle of leg	polyA plus RNA-seq	9
+tissue	muscle of leg	Histone ChIP-seq	6
+tissue	muscle of leg	WGBS	1
+tissue	skin epidermis	Histone ChIP-seq	29
+tissue	right atrium auricular region	Histone ChIP-seq	12
+tissue	right atrium auricular region	TF ChIP-seq	3
+tissue	right atrium auricular region	DNAme array	2
+tissue	right atrium auricular region	DNase-seq	2
+tissue	right atrium auricular region	RAMPAGE	2
+tissue	right atrium auricular region	microRNA counts	2
+tissue	right atrium auricular region	microRNA-seq	2
+tissue	right atrium auricular region	total RNA-seq	2
+tissue	right atrium auricular region	ATAC-seq	1
+tissue	tibial artery	Histone ChIP-seq	18
+tissue	tibial artery	DNAme array	4
+tissue	tibial artery	DNase-seq	3
+tissue	tibial artery	TF ChIP-seq	2
+tissue	tibial artery	ATAC-seq	1
+tissue	cerebellum	DNase-seq	9
+tissue	cerebellum	Histone ChIP-seq	5
+tissue	cerebellum	polyA plus RNA-seq	4
+tissue	cerebellum	ATAC-seq	2
+tissue	cerebellum	TF ChIP-seq	2
+tissue	cerebellum	RAMPAGE	1
+tissue	cerebellum	WGBS	1
+tissue	cerebellum	microRNA-seq	1
+tissue	cerebellum	small RNA-seq	1
+tissue	cerebellum	total RNA-seq	1
+tissue	lower leg skin	TF ChIP-seq	8
+tissue	lower leg skin	DNAme array	4
+tissue	lower leg skin	total RNA-seq	4
+tissue	lower leg skin	DNase-seq	2
+tissue	lower leg skin	RAMPAGE	2
+tissue	lower leg skin	WGBS	2
+tissue	lower leg skin	microRNA counts	2
+tissue	lower leg skin	microRNA-seq	2
+tissue	lower leg skin	Histone ChIP-seq	1
+tissue	vagina	Histone ChIP-seq	9
+tissue	vagina	TF ChIP-seq	7
+tissue	vagina	DNAme array	2
+tissue	vagina	DNase-seq	2
+tissue	vagina	microRNA counts	2
+tissue	vagina	microRNA-seq	2
+tissue	vagina	RAMPAGE	1
+tissue	vagina	small RNA-seq	1
+tissue	vagina	total RNA-seq	1
+tissue	colonic mucosa	Histone ChIP-seq	20
+tissue	colonic mucosa	total RNA-seq	2
+tissue	colonic mucosa	ATAC-seq	1
+tissue	colonic mucosa	DNase-seq	1
+tissue	colonic mucosa	microRNA-seq	1
+tissue	muscle of back	DNase-seq	15
+tissue	muscle of back	polyA plus RNA-seq	10
+tissue	lower lobe of left lung	Histone ChIP-seq	12
+tissue	lower lobe of left lung	DNase-seq	3
+tissue	lower lobe of left lung	TF ChIP-seq	2
+tissue	lower lobe of left lung	long read RNA-seq	2
+tissue	lower lobe of left lung	microRNA-seq	2
+tissue	lower lobe of left lung	total RNA-seq	2
+tissue	lower lobe of left lung	ATAC-seq	1
+tissue	aorta	Histone ChIP-seq	11
+tissue	aorta	DNase-seq	2
+tissue	aorta	WGBS	2
+tissue	aorta	long read RNA-seq	2
+tissue	aorta	microRNA-seq	2
+tissue	aorta	polyA plus RNA-seq	2
+tissue	aorta	total RNA-seq	2
+tissue	right cardiac atrium	Histone ChIP-seq	5
+tissue	right cardiac atrium	long read RNA-seq	4
+tissue	right cardiac atrium	total RNA-seq	4
+tissue	right cardiac atrium	ATAC-seq	3
+tissue	right cardiac atrium	DNase-seq	3
+tissue	right cardiac atrium	microRNA-seq	2
+tissue	right cardiac atrium	WGBS	1
+tissue	right cardiac atrium	polyA plus RNA-seq	1
+tissue	ascending aorta	Histone ChIP-seq	12
+tissue	ascending aorta	TF ChIP-seq	3
+tissue	ascending aorta	DNAme array	2
+tissue	ascending aorta	DNase-seq	2
+tissue	ascending aorta	total RNA-seq	1
+tissue	chorion	Histone ChIP-seq	10
+tissue	chorion	microRNA-seq	4
+tissue	chorion	polyA plus RNA-seq	4
+tissue	chorion	DNase-seq	1
+tissue	chorion	genotyping array	1
+tissue	omental fat pad	DNAme array	4
+tissue	omental fat pad	RAMPAGE	4
+tissue	omental fat pad	total RNA-seq	4
+tissue	omental fat pad	TF ChIP-seq	3
+tissue	omental fat pad	DNase-seq	2
+tissue	omental fat pad	ATAC-seq	1
+tissue	omental fat pad	small RNA-seq	1
+tissue	spinal cord	DNase-seq	6
+tissue	spinal cord	Histone ChIP-seq	6
+tissue	spinal cord	polyA plus RNA-seq	3
+tissue	spinal cord	RAMPAGE	1
+tissue	spinal cord	WGBS	1
+tissue	spinal cord	small RNA-seq	1
+tissue	spinal cord	total RNA-seq	1
+tissue	endocrine pancreas	Histone ChIP-seq	14
+tissue	endocrine pancreas	microRNA-seq	2
+tissue	endocrine pancreas	polyA plus RNA-seq	2
+tissue	esophagus	Histone ChIP-seq	12
+tissue	esophagus	DNAme array	2
+tissue	esophagus	WGBS	2
+tissue	esophagus	polyA plus RNA-seq	2
+tissue	thoracic aorta	Histone ChIP-seq	11
+tissue	thoracic aorta	TF ChIP-seq	2
+tissue	thoracic aorta	total RNA-seq	2
+tissue	thoracic aorta	ATAC-seq	1
+tissue	thoracic aorta	DNase-seq	1
+tissue	thoracic aorta	RAMPAGE	1
+tissue	gastrocnemius	total RNA-seq	14
+tissue	gastrocnemius	DNase-seq	3
+tissue	parathyroid adenoma	Histone ChIP-seq	15
+tissue	parathyroid adenoma	TF ChIP-seq	2
+tissue	trophoblast	Histone ChIP-seq	10
+tissue	trophoblast	polyA plus RNA-seq	4
+tissue	trophoblast	microRNA-seq	3
+tissue	right lung	DNase-seq	11
+tissue	right lung	polyA plus RNA-seq	5
+tissue	temporal lobe	Histone ChIP-seq	13
+tissue	temporal lobe	RAMPAGE	1
+tissue	temporal lobe	small RNA-seq	1
+tissue	temporal lobe	total RNA-seq	1
+tissue	urinary bladder	Histone ChIP-seq	4
+tissue	urinary bladder	polyA plus RNA-seq	3
+tissue	urinary bladder	DNase-seq	2
+tissue	urinary bladder	DNAme array	1
+tissue	urinary bladder	RAMPAGE	1
+tissue	urinary bladder	WGBS	1
+tissue	urinary bladder	microRNA counts	1
+tissue	urinary bladder	microRNA-seq	1
+tissue	urinary bladder	small RNA-seq	1
+tissue	urinary bladder	total RNA-seq	1
+tissue	digestive system	polyA plus RNA-seq	8
+tissue	digestive system	total RNA-seq	4
+tissue	digestive system	CAGE	3
+tissue	subcutaneous adipose tissue	DNAme array	4
+tissue	subcutaneous adipose tissue	total RNA-seq	4
+tissue	subcutaneous adipose tissue	RAMPAGE	3
+tissue	subcutaneous adipose tissue	ATAC-seq	1
+tissue	subcutaneous adipose tissue	TF ChIP-seq	1
+tissue	subcutaneous adipose tissue	polyA plus RNA-seq	1
+tissue	subcutaneous adipose tissue	small RNA-seq	1
+tissue	caudate nucleus	Histone ChIP-seq	13
+tissue	caudate nucleus	DNase-seq	1
+tissue	mucosa of descending colon	Histone ChIP-seq	4
+tissue	mucosa of descending colon	DNase-seq	3
+tissue	mucosa of descending colon	ATAC-seq	2
+tissue	mucosa of descending colon	long read RNA-seq	2
+tissue	mucosa of descending colon	total RNA-seq	2
+tissue	mucosa of descending colon	microRNA-seq	1
+tissue	mucosa of rectum	Histone ChIP-seq	14
+tissue	placental basal plate	Histone ChIP-seq	9
+tissue	placental basal plate	polyA plus RNA-seq	4
+tissue	placental basal plate	microRNA-seq	1
+tissue	renal cortex interstitium	DNase-seq	11
+tissue	renal cortex interstitium	polyA plus RNA-seq	3
+tissue	central nervous system	polyA plus RNA-seq	7
+tissue	central nervous system	CAGE	2
+tissue	central nervous system	PAS-seq	2
+tissue	central nervous system	total RNA-seq	2
+tissue	duodenal mucosa	Histone ChIP-seq	13
+tissue	germinal matrix	Histone ChIP-seq	10
+tissue	germinal matrix	microRNA-seq	2
+tissue	germinal matrix	polyA plus RNA-seq	1
+tissue	renal pelvis	DNase-seq	10
+tissue	renal pelvis	polyA plus RNA-seq	3
+tissue	amnion	Histone ChIP-seq	6
+tissue	amnion	microRNA-seq	3
+tissue	amnion	polyA plus RNA-seq	3
+tissue	angular gyrus	Histone ChIP-seq	12
+tissue	cingulate gyrus	Histone ChIP-seq	12
+tissue	muscle of trunk	Histone ChIP-seq	6
+tissue	muscle of trunk	DNase-seq	3
+tissue	muscle of trunk	polyA plus RNA-seq	2
+tissue	muscle of trunk	WGBS	1
+tissue	stomach smooth muscle	Histone ChIP-seq	12
+tissue	substantia nigra	Histone ChIP-seq	12
+tissue	arthropod fat body	polyA plus RNA-seq	6
+tissue	arthropod fat body	total RNA-seq	3
+tissue	arthropod fat body	CAGE	1
+tissue	arthropod fat body	PAS-seq	1
+tissue	cerebral cortex	long read RNA-seq	5
+tissue	cerebral cortex	DNase-seq	3
+tissue	cerebral cortex	microRNA-seq	2
+tissue	cerebral cortex	WGBS	1
+tissue	muscle layer of colon	Histone ChIP-seq	11
+tissue	muscle layer of duodenum	Histone ChIP-seq	11
+tissue	adipose tissue	polyA plus RNA-seq	5
+tissue	adipose tissue	WGBS	3
+tissue	adipose tissue	DNAme array	1
+tissue	adipose tissue	Histone ChIP-seq	1
+tissue	coronary artery	Histone ChIP-seq	3
+tissue	coronary artery	DNAme array	2
+tissue	coronary artery	DNase-seq	2
+tissue	coronary artery	TF ChIP-seq	2
+tissue	coronary artery	ATAC-seq	1
+tissue	left cardiac atrium	ATAC-seq	3
+tissue	left cardiac atrium	DNase-seq	2
+tissue	left cardiac atrium	microRNA-seq	2
+tissue	left cardiac atrium	total RNA-seq	2
+tissue	left cardiac atrium	long read RNA-seq	1
+tissue	left kidney	DNase-seq	9
+tissue	left kidney	polyA plus RNA-seq	1
+tissue	left ventricle myocardium inferior	Histone ChIP-seq	6
+tissue	left ventricle myocardium inferior	DNase-seq	1
+tissue	left ventricle myocardium inferior	long read RNA-seq	1
+tissue	left ventricle myocardium inferior	microRNA-seq	1
+tissue	left ventricle myocardium inferior	total RNA-seq	1
+tissue	right kidney	DNase-seq	10
+tissue	frontal cortex	DNase-seq	2
+tissue	frontal cortex	ATAC-seq	1
+tissue	frontal cortex	FAIRE-seq	1
+tissue	frontal cortex	RAMPAGE	1
+tissue	frontal cortex	polyA plus RNA-seq	1
+tissue	frontal cortex	small RNA-seq	1
+tissue	frontal cortex	total RNA-seq	1
+tissue	left colon	DNase-seq	2
+tissue	left colon	microRNA-seq	2
+tissue	left colon	total RNA-seq	2
+tissue	left colon	ATAC-seq	1
+tissue	left colon	long read RNA-seq	1
+tissue	left renal cortex interstitium	DNase-seq	4
+tissue	left renal cortex interstitium	polyA plus RNA-seq	4
+tissue	left renal pelvis	DNase-seq	4
+tissue	left renal pelvis	polyA plus RNA-seq	4
+tissue	right renal pelvis	DNase-seq	4
+tissue	right renal pelvis	polyA plus RNA-seq	4
+tissue	bone marrow	Histone ChIP-seq	3
+tissue	bone marrow	TF ChIP-seq	2
+tissue	bone marrow	WGBS	1
+tissue	bone marrow	polyA plus RNA-seq	1
+tissue	cortical plate	Histone ChIP-seq	3
+tissue	cortical plate	TF ChIP-seq	2
+tissue	cortical plate	polyA plus RNA-seq	2
+tissue	olfactory bulb	Histone ChIP-seq	3
+tissue	olfactory bulb	TF ChIP-seq	2
+tissue	olfactory bulb	WGBS	1
+tissue	olfactory bulb	polyA plus RNA-seq	1
+tissue	posterior vena cava	long read RNA-seq	2
+tissue	posterior vena cava	total RNA-seq	2
+tissue	posterior vena cava	ATAC-seq	1
+tissue	posterior vena cava	DNase-seq	1
+tissue	posterior vena cava	microRNA-seq	1
+tissue	retina	DNase-seq	7
+tissue	embryo	DNase-seq	5
+tissue	embryo	polyA plus RNA-seq	1
+tissue	mucosa of stomach	Histone ChIP-seq	6
+tissue	rectal smooth muscle tissue	Histone ChIP-seq	6
+tissue	right renal cortex interstitium	DNase-seq	3
+tissue	right renal cortex interstitium	polyA plus RNA-seq	3
+tissue	salivary gland	polyA plus RNA-seq	4
+tissue	salivary gland	total RNA-seq	2
+tissue	Right ventricle myocardium inferior	ATAC-seq	1
+tissue	Right ventricle myocardium inferior	DNase-seq	1
+tissue	Right ventricle myocardium inferior	long read RNA-seq	1
+tissue	Right ventricle myocardium inferior	microRNA-seq	1
+tissue	Right ventricle myocardium inferior	total RNA-seq	1
+tissue	Right ventricle myocardium superior	ATAC-seq	1
+tissue	Right ventricle myocardium superior	DNase-seq	1
+tissue	Right ventricle myocardium superior	long read RNA-seq	1
+tissue	Right ventricle myocardium superior	microRNA-seq	1
+tissue	Right ventricle myocardium superior	total RNA-seq	1
+tissue	imaginal disc	polyA plus RNA-seq	2
+tissue	imaginal disc	CAGE	1
+tissue	imaginal disc	PAS-seq	1
+tissue	imaginal disc	total RNA-seq	1
+tissue	left ventricle myocardium superior	ATAC-seq	1
+tissue	left ventricle myocardium superior	DNase-seq	1
+tissue	left ventricle myocardium superior	long read RNA-seq	1
+tissue	left ventricle myocardium superior	microRNA-seq	1
+tissue	left ventricle myocardium superior	total RNA-seq	1
+tissue	lower lobe of right lung	ATAC-seq	1
+tissue	lower lobe of right lung	DNase-seq	1
+tissue	lower lobe of right lung	long read RNA-seq	1
+tissue	lower lobe of right lung	microRNA-seq	1
+tissue	lower lobe of right lung	total RNA-seq	1
+tissue	male accessory sex gland	polyA plus RNA-seq	2
+tissue	male accessory sex gland	CAGE	1
+tissue	male accessory sex gland	PAS-seq	1
+tissue	male accessory sex gland	total RNA-seq	1
+tissue	mesenteric fat pad	ATAC-seq	1
+tissue	mesenteric fat pad	DNase-seq	1
+tissue	mesenteric fat pad	long read RNA-seq	1
+tissue	mesenteric fat pad	microRNA-seq	1
+tissue	mesenteric fat pad	total RNA-seq	1
+tissue	sciatic nerve	ATAC-seq	2
+tissue	sciatic nerve	DNase-seq	1
+tissue	sciatic nerve	microRNA-seq	1
+tissue	sciatic nerve	total RNA-seq	1
+tissue	tongue	DNase-seq	2
+tissue	tongue	RAMPAGE	1
+tissue	tongue	small RNA-seq	1
+tissue	tongue	total RNA-seq	1
+tissue	upper lobe of right lung	ATAC-seq	1
+tissue	upper lobe of right lung	DNase-seq	1
+tissue	upper lobe of right lung	long read RNA-seq	1
+tissue	upper lobe of right lung	microRNA-seq	1
+tissue	upper lobe of right lung	total RNA-seq	1
+tissue	brown adipose tissue	Histone ChIP-seq	3
+tissue	brown adipose tissue	polyA plus RNA-seq	1
+tissue	cardiac septum	DNase-seq	1
+tissue	cardiac septum	long read RNA-seq	1
+tissue	cardiac septum	microRNA-seq	1
+tissue	cardiac septum	total RNA-seq	1
+tissue	colon	DNAme array	2
+tissue	colon	FAIRE-seq	1
+tissue	colon	polyA plus RNA-seq	1
+tissue	occipital lobe	DNase-seq	1
+tissue	occipital lobe	RAMPAGE	1
+tissue	occipital lobe	small RNA-seq	1
+tissue	occipital lobe	total RNA-seq	1
+tissue	skin of body	DNase-seq	1
+tissue	skin of body	RAMPAGE	1
+tissue	skin of body	small RNA-seq	1
+tissue	skin of body	total RNA-seq	1
+tissue	diencephalon	RAMPAGE	1
+tissue	diencephalon	small RNA-seq	1
+tissue	diencephalon	total RNA-seq	1
+tissue	gonadal fat pad	polyA plus RNA-seq	2
+tissue	gonadal fat pad	DNase-seq	1
+tissue	left lobe of liver	ATAC-seq	1
+tissue	left lobe of liver	DNase-seq	1
+tissue	left lobe of liver	total RNA-seq	1
+tissue	metanephros	RAMPAGE	1
+tissue	metanephros	small RNA-seq	1
+tissue	metanephros	total RNA-seq	1
+tissue	mucosa of gallbladder	ATAC-seq	1
+tissue	mucosa of gallbladder	DNase-seq	1
+tissue	mucosa of gallbladder	total RNA-seq	1
+tissue	parietal lobe	RAMPAGE	1
+tissue	parietal lobe	small RNA-seq	1
+tissue	parietal lobe	total RNA-seq	1
+tissue	umbilical cord	DNase-seq	1
+tissue	umbilical cord	RAMPAGE	1
+tissue	umbilical cord	total RNA-seq	1
+tissue	breast	DNAme array	1
+tissue	breast	RRBS	1
+tissue	camera-type eye	RAMPAGE	1
+tissue	camera-type eye	total RNA-seq	1
+tissue	cortex	DNase-seq	2
+tissue	eye	DNase-seq	2
+tissue	fat pad	DNase-seq	1
+tissue	fat pad	polyA plus RNA-seq	1
+tissue	forelimb muscle	DNase-seq	1
+tissue	forelimb muscle	polyA plus RNA-seq	1
+tissue	hindlimb muscle	DNase-seq	1
+tissue	hindlimb muscle	polyA plus RNA-seq	1
+tissue	islet of Langerhans	FAIRE-seq	1
+tissue	islet of Langerhans	RRBS	1
+tissue	jejunum	DNAme array	1
+tissue	jejunum	genotyping array	1
+tissue	mole	microRNA-seq	1
+tissue	mole	polyA plus RNA-seq	1
+tissue	pericardium	DNAme array	1
+tissue	pericardium	RRBS	1
+tissue	telencephalon	DNase-seq	1
+tissue	telencephalon	polyA plus RNA-seq	1
+tissue	zone of skin	DNAme array	1
+tissue	zone of skin	RRBS	1
+tissue	Ammon's horn	DNase-seq	1
+tissue	area 11 of Brodmann	microRNA-seq	1
+tissue	autopod region	scRNA-seq	1
+tissue	cerebellar cortex	DNase-seq	1
+tissue	duodenum	polyA plus RNA-seq	1
+tissue	endometrium	FAIRE-seq	1
+tissue	esophagus mucosa	ATAC-seq	1
+tissue	fallopian tube	ATAC-seq	1
+tissue	femur	DNase-seq	1
+tissue	forelimb bud	DNase-seq	1
+tissue	forelimb stylopod	scRNA-seq	1
+tissue	forelimb zygopod	scRNA-seq	1
+tissue	germinal center	DNase-seq	1
+tissue	globus pallidus	DNase-seq	1
+tissue	hindlimb bud	DNase-seq	1
+tissue	inferior parietal cortex	DNase-seq	1
+tissue	insula	microRNA-seq	1
+tissue	left forelimb	DNase-seq	1
+tissue	left hindlimb	DNase-seq	1
+tissue	mammary gland	polyA plus RNA-seq	1
+tissue	medulla oblongata	DNase-seq	1
+tissue	mesoderm	DNase-seq	1
+tissue	middle frontal gyrus	DNase-seq	1
+tissue	mucosa of urinary bladder	ATAC-seq	1
+tissue	penis	DNAme array	1
+tissue	pons	DNase-seq	1
+tissue	posterior cingulate cortex	ATAC-seq	1
+tissue	posterior foregut	Repli-chip	1
+tissue	putamen	DNase-seq	1
+tissue	rectum	DNAme array	1
+tissue	right forelimb	DNase-seq	1
+tissue	right hindlimb	DNase-seq	1
+tissue	superior temporal gyrus	DNase-seq	1
+tissue	ureter	DNase-seq	1
+tissue	yolk sac	DNase-seq	1
+cell line	K562	TF ChIP-seq	641
+cell line	K562	eCLIP	120
+cell line	K562	Histone ChIP-seq	19
+cell line	K562	polyA plus RNA-seq	15
+cell line	K562	total RNA-seq	13
+cell line	K562	ChIA-PET	11
+cell line	K562	CAGE	9
+cell line	K562	RNA microarray	9
+cell line	K562	small RNA-seq	7
+cell line	K562	MS-MS	6
+cell line	K562	RIP-chip	6
+cell line	K562	RNA-PET	6
+cell line	K562	Repli-seq	6
+cell line	K562	RIP-seq	5
+cell line	K562	DNase-seq	4
+cell line	K562	WGS	4
+cell line	K562	DNA-PET	3
+cell line	K562	DNAme array	3
+cell line	K562	iCLIP	3
+cell line	K562	long read RNA-seq	3
+cell line	K562	polyA minus RNA-seq	3
+cell line	K562	5C	2
+cell line	K562	ATAC-seq	2
+cell line	K562	BruChase-seq	2
+cell line	K562	genotyping array	2
+cell line	K562	microRNA-seq	2
+cell line	K562	BruUV-seq	1
+cell line	K562	FAIRE-seq	1
+cell line	K562	Hi-C	1
+cell line	K562	MNase-seq	1
+cell line	K562	MRE-seq	1
+cell line	K562	MeDIP-seq	1
+cell line	K562	RAMPAGE	1
+cell line	K562	RRBS	1
+cell line	K562	WGBS	1
+cell line	K562	microRNA counts	1
+cell line	HepG2	TF ChIP-seq	644
+cell line	HepG2	eCLIP	103
+cell line	HepG2	Histone ChIP-seq	15
+cell line	HepG2	polyA plus RNA-seq	11
+cell line	HepG2	CAGE	6
+cell line	HepG2	RNA microarray	6
+cell line	HepG2	Repli-seq	6
+cell line	HepG2	total RNA-seq	6
+cell line	HepG2	ChIA-PET	4
+cell line	HepG2	DNAme array	3
+cell line	HepG2	WGS	3
+cell line	HepG2	polyA minus RNA-seq	3
+cell line	HepG2	small RNA-seq	3
+cell line	HepG2	ATAC-seq	2
+cell line	HepG2	BruChase-seq	2
+cell line	HepG2	DNase-seq	2
+cell line	HepG2	RIP-chip	2
+cell line	HepG2	RNA-PET	2
+cell line	HepG2	RRBS	2
+cell line	HepG2	WGBS	2
+cell line	HepG2	genotyping array	2
+cell line	HepG2	long read RNA-seq	2
+cell line	HepG2	microRNA-seq	2
+cell line	HepG2	5C	1
+cell line	HepG2	BruUV-seq	1
+cell line	HepG2	FAIRE-seq	1
+cell line	HepG2	Hi-C	1
+cell line	HepG2	microRNA counts	1
+cell line	GM12878	TF ChIP-seq	187
+cell line	GM12878	Histone ChIP-seq	15
+cell line	GM12878	polyA plus RNA-seq	13
+cell line	GM12878	Hi-C	7
+cell line	GM12878	RIP-chip	7
+cell line	GM12878	RNA microarray	7
+cell line	GM12878	CAGE	6
+cell line	GM12878	Repli-seq	6
+cell line	GM12878	small RNA-seq	6
+cell line	GM12878	MS-MS	5
+cell line	GM12878	total RNA-seq	5
+cell line	GM12878	RIP-seq	4
+cell line	GM12878	DNA-PET	3
+cell line	GM12878	DNAme array	3
+cell line	GM12878	long read RNA-seq	3
+cell line	GM12878	polyA minus RNA-seq	3
+cell line	GM12878	5C	2
+cell line	GM12878	ATAC-seq	2
+cell line	GM12878	BruChase-seq	2
+cell line	GM12878	ChIA-PET	2
+cell line	GM12878	RNA-PET	2
+cell line	GM12878	RRBS	2
+cell line	GM12878	genotyping array	2
+cell line	GM12878	microRNA-seq	2
+cell line	GM12878	scRNA-seq	2
+cell line	GM12878	BruUV-seq	1
+cell line	GM12878	DNase-seq	1
+cell line	GM12878	FAIRE-seq	1
+cell line	GM12878	MNase-seq	1
+cell line	GM12878	MRE-seq	1
+cell line	GM12878	MeDIP-seq	1
+cell line	GM12878	RAMPAGE	1
+cell line	GM12878	WGBS	1
+cell line	GM12878	microRNA counts	1
+cell line	MCF-7	TF ChIP-seq	147
+cell line	MCF-7	Histone ChIP-seq	18
+cell line	MCF-7	small RNA-seq	7
+cell line	MCF-7	ChIA-PET	6
+cell line	MCF-7	Repli-seq	6
+cell line	MCF-7	DNase-seq	4
+cell line	MCF-7	polyA plus RNA-seq	4
+cell line	MCF-7	CAGE	3
+cell line	MCF-7	RNA-PET	3
+cell line	MCF-7	RRBS	3
+cell line	MCF-7	BruChase-seq	2
+cell line	MCF-7	DNAme array	2
+cell line	MCF-7	RNA microarray	2
+cell line	MCF-7	genotyping array	2
+cell line	MCF-7	microRNA-seq	2
+cell line	MCF-7	5C	1
+cell line	MCF-7	ATAC-seq	1
+cell line	MCF-7	BruUV-seq	1
+cell line	MCF-7	FAIRE-seq	1
+cell line	MCF-7	long read RNA-seq	1
+cell line	MCF-7	microRNA counts	1
+cell line	MCF-7	polyA minus RNA-seq	1
+cell line	MCF-7	total RNA-seq	1
+cell line	HEK293	TF ChIP-seq	198
+cell line	HEK293	Histone ChIP-seq	6
+cell line	HEK293	ChIA-PET	2
+cell line	HEK293	DNAme array	2
+cell line	HEK293	RRBS	2
+cell line	HEK293	genotyping array	2
+cell line	HEK293	RNA microarray	1
+cell line	H1	TF ChIP-seq	78
+cell line	H1	Histone ChIP-seq	51
+cell line	H1	polyA plus RNA-seq	9
+cell line	H1	CAGE	4
+cell line	H1	microRNA-seq	4
+cell line	H1	small RNA-seq	4
+cell line	H1	polyA minus RNA-seq	3
+cell line	H1	total RNA-seq	3
+cell line	H1	DNAme array	2
+cell line	H1	DNase-seq	2
+cell line	H1	MS-MS	2
+cell line	H1	WGBS	2
+cell line	H1	5C	1
+cell line	H1	ChIA-PET	1
+cell line	H1	FAIRE-seq	1
+cell line	H1	RIP-chip	1
+cell line	H1	RNA-PET	1
+cell line	H1	RRBS	1
+cell line	H1	Repli-chip	1
+cell line	H1	genotyping array	1
+cell line	H1	microRNA counts	1
+cell line	HeLa-S3	TF ChIP-seq	71
+cell line	HeLa-S3	Histone ChIP-seq	15
+cell line	HeLa-S3	CAGE	6
+cell line	HeLa-S3	Repli-seq	6
+cell line	HeLa-S3	polyA plus RNA-seq	5
+cell line	HeLa-S3	DNase-seq	3
+cell line	HeLa-S3	RNA-PET	3
+cell line	HeLa-S3	polyA minus RNA-seq	3
+cell line	HeLa-S3	small RNA-seq	3
+cell line	HeLa-S3	DNAme array	2
+cell line	HeLa-S3	RIP-chip	2
+cell line	HeLa-S3	genotyping array	2
+cell line	HeLa-S3	5C	1
+cell line	HeLa-S3	ChIA-PET	1
+cell line	HeLa-S3	FAIRE-seq	1
+cell line	HeLa-S3	Hi-C	1
+cell line	HeLa-S3	RNA microarray	1
+cell line	HeLa-S3	RRBS	1
+cell line	HeLa-S3	Repli-chip	1
+cell line	HeLa-S3	WGBS	1
+cell line	A549	TF ChIP-seq	78
+cell line	A549	small RNA-seq	9
+cell line	A549	Histone ChIP-seq	7
+cell line	A549	polyA plus RNA-seq	4
+cell line	A549	CAGE	3
+cell line	A549	RNA-PET	3
+cell line	A549	ATAC-seq	2
+cell line	A549	ChIA-PET	2
+cell line	A549	DNase-seq	2
+cell line	A549	Hi-C	2
+cell line	A549	RNA microarray	2
+cell line	A549	Repli-seq	2
+cell line	A549	genotyping array	2
+cell line	A549	DNAme array	1
+cell line	A549	FAIRE-seq	1
+cell line	A549	WGBS	1
+cell line	A549	WGS	1
+cell line	A549	polyA minus RNA-seq	1
+cell line	IMR-90	Histone ChIP-seq	30
+cell line	IMR-90	TF ChIP-seq	16
+cell line	IMR-90	small RNA-seq	9
+cell line	IMR-90	Repli-seq	6
+cell line	IMR-90	CAGE	3
+cell line	IMR-90	RNA-PET	3
+cell line	IMR-90	polyA plus RNA-seq	3
+cell line	IMR-90	total RNA-seq	3
+cell line	IMR-90	BruChase-seq	2
+cell line	IMR-90	DNAme array	2
+cell line	IMR-90	DNase-seq	2
+cell line	IMR-90	Hi-C	2
+cell line	IMR-90	WGBS	2
+cell line	IMR-90	genotyping array	2
+cell line	IMR-90	microRNA-seq	2
+cell line	IMR-90	ATAC-seq	1
+cell line	IMR-90	BruUV-seq	1
+cell line	IMR-90	ChIA-PET	1
+cell line	IMR-90	RRBS	1
+cell line	IMR-90	Repli-chip	1
+cell line	IMR-90	long read RNA-seq	1
+cell line	SK-N-SH	TF ChIP-seq	38
+cell line	SK-N-SH	Histone ChIP-seq	18
+cell line	SK-N-SH	small RNA-seq	9
+cell line	SK-N-SH	Repli-seq	6
+cell line	SK-N-SH	polyA plus RNA-seq	4
+cell line	SK-N-SH	CAGE	3
+cell line	SK-N-SH	RNA-PET	3
+cell line	SK-N-SH	ChIA-PET	2
+cell line	SK-N-SH	DNAme array	2
+cell line	SK-N-SH	DNase-seq	1
+cell line	SK-N-SH	RRBS	1
+cell line	SK-N-SH	WGBS	1
+cell line	SK-N-SH	genotyping array	1
+cell line	MEL	TF ChIP-seq	44
+cell line	MEL	Histone ChIP-seq	12
+cell line	MEL	polyA plus RNA-seq	3
+cell line	MEL	DNase-seq	1
+cell line	MEL	MRE-seq	1
+cell line	MEL	MeDIP-seq	1
+cell line	MEL	Repli-chip	1
+cell line	MEL	total RNA-seq	1
+cell line	H9	Histone ChIP-seq	33
+cell line	H9	Mint-ChIP-seq	14
+cell line	H9	DNase-seq	7
+cell line	H9	ChIA-PET	1
+cell line	H9	RNA microarray	1
+cell line	H9	Repli-chip	1
+cell line	H9	TF ChIP-seq	1
+cell line	H9	WGBS	1
+cell line	H9	long read RNA-seq	1
+cell line	H9	microRNA-seq	1
+cell line	H9	total RNA-seq	1
+cell line	HCT116	TF ChIP-seq	27
+cell line	HCT116	Histone ChIP-seq	17
+cell line	HCT116	ChIA-PET	3
+cell line	HCT116	BruChase-seq	2
+cell line	HCT116	DNAme array	2
+cell line	HCT116	microRNA-seq	2
+cell line	HCT116	ATAC-seq	1
+cell line	HCT116	BruUV-seq	1
+cell line	HCT116	DNase-seq	1
+cell line	HCT116	RNA microarray	1
+cell line	HCT116	RRBS	1
+cell line	HCT116	long read RNA-seq	1
+cell line	HCT116	microRNA counts	1
+cell line	HCT116	polyA plus RNA-seq	1
+cell line	HCT116	total RNA-seq	1
+cell line	CH12.LX	TF ChIP-seq	39
+cell line	CH12.LX	Histone ChIP-seq	13
+cell line	CH12.LX	Hi-C	2
+cell line	CH12.LX	total RNA-seq	2
+cell line	CH12.LX	DNase-seq	1
+cell line	CH12.LX	MRE-seq	1
+cell line	CH12.LX	MeDIP-seq	1
+cell line	CH12.LX	Repli-chip	1
+cell line	CH12.LX	polyA plus RNA-seq	1
+cell line	GM23338	TF ChIP-seq	16
+cell line	GM23338	Histone ChIP-seq	11
+cell line	GM23338	Mint-ChIP-seq	5
+cell line	GM23338	DNase-seq	2
+cell line	GM23338	microRNA-seq	2
+cell line	GM23338	total RNA-seq	2
+cell line	GM23338	ATAC-seq	1
+cell line	GM23338	DNAme array	1
+cell line	GM23338	RAMPAGE	1
+cell line	GM23338	long read RNA-seq	1
+cell line	GM23338	microRNA counts	1
+cell line	GM23338	polyA plus RNA-seq	1
+cell line	GM23338	small RNA-seq	1
+cell line	Panc1	Histone ChIP-seq	7
+cell line	Panc1	TF ChIP-seq	7
+cell line	Panc1	DNAme array	3
+cell line	Panc1	genotyping array	3
+cell line	Panc1	BruChase-seq	2
+cell line	Panc1	RRBS	2
+cell line	Panc1	ATAC-seq	1
+cell line	Panc1	BruUV-seq	1
+cell line	Panc1	DNase-seq	1
+cell line	Panc1	Hi-C	1
+cell line	Panc1	RNA microarray	1
+cell line	Panc1	WGS	1
+cell line	Panc1	long read RNA-seq	1
+cell line	Panc1	microRNA-seq	1
+cell line	Panc1	polyA plus RNA-seq	1
+cell line	Panc1	total RNA-seq	1
+cell line	GM23248	Histone ChIP-seq	13
+cell line	GM23248	TF ChIP-seq	2
+cell line	GM23248	WGBS	2
+cell line	GM23248	WGS	2
+cell line	GM23248	DNAme array	1
+cell line	GM23248	DNase-seq	1
+cell line	GM23248	Hi-C	1
+cell line	GM23248	RAMPAGE	1
+cell line	GM23248	genotyping array	1
+cell line	GM23248	microRNA counts	1
+cell line	GM23248	microRNA-seq	1
+cell line	GM23248	polyA plus RNA-seq	1
+cell line	GM23248	small RNA-seq	1
+cell line	GM23248	total RNA-seq	1
+cell line	PC-3	Histone ChIP-seq	13
+cell line	PC-3	TF ChIP-seq	3
+cell line	PC-3	BruChase-seq	2
+cell line	PC-3	total RNA-seq	2
+cell line	PC-3	ATAC-seq	1
+cell line	PC-3	BruUV-seq	1
+cell line	PC-3	DNase-seq	1
+cell line	PC-3	RAMPAGE	1
+cell line	PC-3	long read RNA-seq	1
+cell line	PC-3	microRNA-seq	1
+cell line	Kc167	small RNA-seq	8
+cell line	Kc167	TF ChIP-seq	7
+cell line	Kc167	CAGE	2
+cell line	Kc167	polyA plus RNA-seq	2
+cell line	Kc167	total RNA-seq	2
+cell line	Kc167	PAS-seq	1
+cell line	BJ	Repli-seq	6
+cell line	BJ	Histone ChIP-seq	3
+cell line	BJ	5C	1
+cell line	BJ	CAGE	1
+cell line	BJ	ChIA-PET	1
+cell line	BJ	DNAme array	1
+cell line	BJ	DNase-seq	1
+cell line	BJ	RNA microarray	1
+cell line	BJ	RRBS	1
+cell line	BJ	TF ChIP-seq	1
+cell line	BJ	genotyping array	1
+cell line	BJ	polyA minus RNA-seq	1
+cell line	BJ	polyA plus RNA-seq	1
+cell line	BJ	small RNA-seq	1
+cell line	HEK293T	TF ChIP-seq	17
+cell line	HEK293T	ChIA-PET	2
+cell line	HEK293T	DNase-seq	1
+cell line	HEK293T	RNA microarray	1
+cell line	SK-N-MC	Histone ChIP-seq	7
+cell line	SK-N-MC	TF ChIP-seq	3
+cell line	SK-N-MC	DNAme array	2
+cell line	SK-N-MC	Repli-seq	2
+cell line	SK-N-MC	DNase-seq	1
+cell line	SK-N-MC	Hi-C	1
+cell line	SK-N-MC	RNA microarray	1
+cell line	SK-N-MC	RRBS	1
+cell line	SK-N-MC	WGS	1
+cell line	SK-N-MC	genotyping array	1
+cell line	OCI-LY7	Histone ChIP-seq	10
+cell line	OCI-LY7	TF ChIP-seq	2
+cell line	OCI-LY7	DNAme array	1
+cell line	OCI-LY7	DNase-seq	1
+cell line	OCI-LY7	RAMPAGE	1
+cell line	OCI-LY7	WGBS	1
+cell line	OCI-LY7	genotyping array	1
+cell line	OCI-LY7	small RNA-seq	1
+cell line	OCI-LY7	total RNA-seq	1
+cell line	AG04450	Histone ChIP-seq	4
+cell line	AG04450	DNAme array	3
+cell line	AG04450	genotyping array	2
+cell line	AG04450	CAGE	1
+cell line	AG04450	ChIA-PET	1
+cell line	AG04450	DNase-seq	1
+cell line	AG04450	RNA microarray	1
+cell line	AG04450	RRBS	1
+cell line	AG04450	TF ChIP-seq	1
+cell line	AG04450	polyA minus RNA-seq	1
+cell line	AG04450	polyA plus RNA-seq	1
+cell line	AG04450	small RNA-seq	1
+cell line	Ishikawa	TF ChIP-seq	16
+cell line	Ishikawa	DNAme array	1
+cell line	Ishikawa	RRBS	1
+cell line	C2C12	TF ChIP-seq	7
+cell line	C2C12	Histone ChIP-seq	6
+cell line	C2C12	long read RNA-seq	2
+cell line	C2C12	microRNA-seq	1
+cell line	C2C12	polyA plus RNA-seq	1
+cell line	GM06990	Repli-seq	6
+cell line	GM06990	Histone ChIP-seq	3
+cell line	GM06990	5C	1
+cell line	GM06990	DNAme array	1
+cell line	GM06990	DNase-seq	1
+cell line	GM06990	RNA microarray	1
+cell line	GM06990	RRBS	1
+cell line	GM06990	Repli-chip	1
+cell line	GM06990	TF ChIP-seq	1
+cell line	GM06990	genotyping array	1
+cell line	GM12891	TF ChIP-seq	8
+cell line	GM12891	ChIA-PET	2
+cell line	GM12891	DNAme array	2
+cell line	GM12891	DNase-seq	1
+cell line	GM12891	FAIRE-seq	1
+cell line	GM12891	RRBS	1
+cell line	GM12891	genotyping array	1
+cell line	GM12891	polyA plus RNA-seq	1
+cell line	H7	Histone ChIP-seq	8
+cell line	H7	DNase-seq	2
+cell line	H7	RNA microarray	2
+cell line	H7	DNAme array	1
+cell line	H7	RAMPAGE	1
+cell line	H7	Repli-chip	1
+cell line	H7	genotyping array	1
+cell line	H7	total RNA-seq	1
+cell line	MM.1S	Histone ChIP-seq	13
+cell line	MM.1S	TF ChIP-seq	3
+cell line	MM.1S	DNase-seq	1
+cell line	NT2/D1	Histone ChIP-seq	6
+cell line	NT2/D1	TF ChIP-seq	3
+cell line	NT2/D1	DNAme array	2
+cell line	NT2/D1	RRBS	2
+cell line	NT2/D1	genotyping array	2
+cell line	NT2/D1	DNase-seq	1
+cell line	NT2/D1	RNA microarray	1
+cell line	PC-9	Histone ChIP-seq	13
+cell line	PC-9	TF ChIP-seq	3
+cell line	PC-9	DNase-seq	1
+cell line	WTC11	long read RNA-seq	7
+cell line	WTC11	TF ChIP-seq	6
+cell line	WTC11	total RNA-seq	2
+cell line	WTC11	ATAC-seq	1
+cell line	WTC11	DNase-seq	1
+cell line	DND-41	Histone ChIP-seq	12
+cell line	DND-41	TF ChIP-seq	2
+cell line	DND-41	ATAC-seq	1
+cell line	DND-41	DNase-seq	1
+cell line	G1E	Histone ChIP-seq	5
+cell line	G1E	TF ChIP-seq	5
+cell line	G1E	polyA plus RNA-seq	2
+cell line	G1E	total RNA-seq	2
+cell line	G1E	ATAC-seq	1
+cell line	G1E	DNase-seq	1
+cell line	HL-60	TF ChIP-seq	5
+cell line	HL-60	Histone ChIP-seq	3
+cell line	HL-60	DNase-seq	2
+cell line	HL-60	DNAme array	1
+cell line	HL-60	RNA microarray	1
+cell line	HL-60	RRBS	1
+cell line	HL-60	genotyping array	1
+cell line	HL-60	long read RNA-seq	1
+cell line	HL-60	microRNA-seq	1
+cell line	Karpas-422	Histone ChIP-seq	12
+cell line	Karpas-422	DNase-seq	1
+cell line	Karpas-422	RAMPAGE	1
+cell line	Karpas-422	small RNA-seq	1
+cell line	Karpas-422	total RNA-seq	1
+cell line	ML-DmBG3-c2	small RNA-seq	8
+cell line	ML-DmBG3-c2	total RNA-seq	4
+cell line	ML-DmBG3-c2	CAGE	2
+cell line	ML-DmBG3-c2	PAS-seq	1
+cell line	ML-DmBG3-c2	polyA plus RNA-seq	1
+cell line	S2	small RNA-seq	8
+cell line	S2	TF ChIP-seq	3
+cell line	S2	CAGE	1
+cell line	S2	DNase-seq	1
+cell line	S2	PAS-seq	1
+cell line	S2	polyA plus RNA-seq	1
+cell line	S2	total RNA-seq	1
+cell line	ES-E14	Histone ChIP-seq	8
+cell line	ES-E14	TF ChIP-seq	5
+cell line	ES-E14	DNase-seq	1
+cell line	ES-E14	total RNA-seq	1
+cell line	GM12892	TF ChIP-seq	6
+cell line	GM12892	ChIA-PET	2
+cell line	GM12892	DNAme array	2
+cell line	GM12892	DNase-seq	1
+cell line	GM12892	FAIRE-seq	1
+cell line	GM12892	RRBS	1
+cell line	GM12892	genotyping array	1
+cell line	GM12892	polyA plus RNA-seq	1
+cell line	HFFc6	total RNA-seq	6
+cell line	HFFc6	Mint-ChIP-seq	5
+cell line	HFFc6	DNase-seq	1
+cell line	HFFc6	TF ChIP-seq	1
+cell line	HFFc6	long read RNA-seq	1
+cell line	HFFc6	microRNA-seq	1
+cell line	NCI-H460	RAMPAGE	3
+cell line	NCI-H460	Repli-seq	2
+cell line	NCI-H460	polyA plus RNA-seq	2
+cell line	NCI-H460	small RNA-seq	2
+cell line	NCI-H460	DNAme array	1
+cell line	NCI-H460	DNase-seq	1
+cell line	NCI-H460	Hi-C	1
+cell line	NCI-H460	WGS	1
+cell line	NCI-H460	genotyping array	1
+cell line	NCI-H460	total RNA-seq	1
+cell line	OCI-LY1	Histone ChIP-seq	13
+cell line	OCI-LY1	TF ChIP-seq	2
+cell line	BE2C	Histone ChIP-seq	5
+cell line	BE2C	DNAme array	2
+cell line	BE2C	DNase-seq	2
+cell line	BE2C	RNA microarray	1
+cell line	BE2C	RRBS	1
+cell line	BE2C	TF ChIP-seq	1
+cell line	BE2C	genotyping array	1
+cell line	BE2C	polyA plus RNA-seq	1
+cell line	DOHH2	Histone ChIP-seq	12
+cell line	DOHH2	TF ChIP-seq	2
+cell line	Loucy	Histone ChIP-seq	12
+cell line	Loucy	TF ChIP-seq	2
+cell line	NCI-H929	Histone ChIP-seq	11
+cell line	NCI-H929	ATAC-seq	1
+cell line	NCI-H929	DNase-seq	1
+cell line	NCI-H929	TF ChIP-seq	1
+cell line	SU-DHL-6	Histone ChIP-seq	12
+cell line	SU-DHL-6	TF ChIP-seq	2
+cell line	Caco-2	Histone ChIP-seq	5
+cell line	Caco-2	DNase-seq	2
+cell line	Caco-2	5C	1
+cell line	Caco-2	DNAme array	1
+cell line	Caco-2	RNA microarray	1
+cell line	Caco-2	RRBS	1
+cell line	Caco-2	TF ChIP-seq	1
+cell line	Caco-2	genotyping array	1
+cell line	LNCaP clone FGC	DNAme array	2
+cell line	LNCaP clone FGC	DNase-seq	2
+cell line	LNCaP clone FGC	RRBS	2
+cell line	LNCaP clone FGC	genotyping array	2
+cell line	LNCaP clone FGC	5C	1
+cell line	LNCaP clone FGC	Hi-C	1
+cell line	LNCaP clone FGC	Histone ChIP-seq	1
+cell line	LNCaP clone FGC	RNA microarray	1
+cell line	LNCaP clone FGC	TF ChIP-seq	1
+cell line	OCI-LY3	Histone ChIP-seq	11
+cell line	OCI-LY3	TF ChIP-seq	2
+cell line	SJCRH30	Histone ChIP-seq	6
+cell line	SJCRH30	DNase-seq	2
+cell line	SJCRH30	DNAme array	1
+cell line	SJCRH30	Hi-C	1
+cell line	SJCRH30	RAMPAGE	1
+cell line	SJCRH30	genotyping array	1
+cell line	SJCRH30	total RNA-seq	1
+cell line	HT1080	RAMPAGE	3
+cell line	HT1080	Switchgear	2
+cell line	HT1080	polyA plus RNA-seq	2
+cell line	HT1080	DNAme array	1
+cell line	HT1080	DNase-seq	1
+cell line	HT1080	genotyping array	1
+cell line	HT1080	small RNA-seq	1
+cell line	HT1080	total RNA-seq	1
+cell line	ML-DmD17-c3	polyA plus RNA-seq	6
+cell line	ML-DmD17-c3	total RNA-seq	6
+cell line	NB4	TF ChIP-seq	4
+cell line	NB4	genotyping array	2
+cell line	NB4	ChIA-PET	1
+cell line	NB4	DNAme array	1
+cell line	NB4	DNase-seq	1
+cell line	NB4	Histone ChIP-seq	1
+cell line	NB4	RNA microarray	1
+cell line	NB4	RRBS	1
+cell line	PFSK-1	TF ChIP-seq	6
+cell line	PFSK-1	DNAme array	2
+cell line	PFSK-1	genotyping array	2
+cell line	PFSK-1	RRBS	1
+cell line	PFSK-1	polyA plus RNA-seq	1
+cell line	SJSA1	Histone ChIP-seq	6
+cell line	SJSA1	DNase-seq	2
+cell line	SJSA1	DNAme array	1
+cell line	SJSA1	RAMPAGE	1
+cell line	SJSA1	genotyping array	1
+cell line	SJSA1	total RNA-seq	1
+cell line	SK-MEL-5	RAMPAGE	3
+cell line	SK-MEL-5	polyA plus RNA-seq	2
+cell line	SK-MEL-5	small RNA-seq	2
+cell line	SK-MEL-5	DNAme array	1
+cell line	SK-MEL-5	DNase-seq	1
+cell line	SK-MEL-5	Hi-C	1
+cell line	SK-MEL-5	genotyping array	1
+cell line	SK-MEL-5	total RNA-seq	1
+cell line	ES-Bruce4	Histone ChIP-seq	7
+cell line	ES-Bruce4	TF ChIP-seq	3
+cell line	ES-Bruce4	polyA plus RNA-seq	1
+cell line	KMS-11	Histone ChIP-seq	10
+cell line	KMS-11	TF ChIP-seq	1
+cell line	S2R+	small RNA-seq	6
+cell line	S2R+	polyA plus RNA-seq	3
+cell line	S2R+	PAS-seq	1
+cell line	S2R+	total RNA-seq	1
+cell line	AG04449	ChIA-PET	2
+cell line	AG04449	DNAme array	2
+cell line	AG04449	DNase-seq	1
+cell line	AG04449	Histone ChIP-seq	1
+cell line	AG04449	RNA microarray	1
+cell line	AG04449	RRBS	1
+cell line	AG04449	TF ChIP-seq	1
+cell line	AG04449	genotyping array	1
+cell line	AG09319	DNAme array	3
+cell line	AG09319	genotyping array	2
+cell line	AG09319	DNase-seq	1
+cell line	AG09319	Histone ChIP-seq	1
+cell line	AG09319	RNA microarray	1
+cell line	AG09319	RRBS	1
+cell line	AG09319	TF ChIP-seq	1
+cell line	CME-W1-Cl.8+	small RNA-seq	8
+cell line	CME-W1-Cl.8+	polyA plus RNA-seq	1
+cell line	CME-W1-Cl.8+	total RNA-seq	1
+cell line	GM19239	ChIA-PET	5
+cell line	GM19239	DNAme array	1
+cell line	GM19239	DNase-seq	1
+cell line	GM19239	FAIRE-seq	1
+cell line	GM19239	RRBS	1
+cell line	GM19239	genotyping array	1
+cell line	HUES64	Histone ChIP-seq	7
+cell line	HUES64	polyA plus RNA-seq	2
+cell line	HUES64	WGBS	1
+cell line	WERI-Rb-1	Histone ChIP-seq	6
+cell line	WERI-Rb-1	DNase-seq	2
+cell line	WERI-Rb-1	RNA microarray	1
+cell line	WERI-Rb-1	TF ChIP-seq	1
+cell line	A673	Histone ChIP-seq	6
+cell line	A673	TF ChIP-seq	2
+cell line	A673	DNase-seq	1
+cell line	HAP-1	Histone ChIP-seq	6
+cell line	HAP-1	DNase-seq	2
+cell line	HAP-1	Hi-C	1
+cell line	RWPE2	Histone ChIP-seq	6
+cell line	RWPE2	ATAC-seq	1
+cell line	RWPE2	DNase-seq	1
+cell line	RWPE2	TF ChIP-seq	1
+cell line	SK-N-DZ	RAMPAGE	2
+cell line	SK-N-DZ	polyA plus RNA-seq	2
+cell line	SK-N-DZ	small RNA-seq	2
+cell line	SK-N-DZ	DNAme array	1
+cell line	SK-N-DZ	DNase-seq	1
+cell line	SK-N-DZ	genotyping array	1
+cell line	T47D	DNase-seq	2
+cell line	T47D	Repli-seq	2
+cell line	T47D	Hi-C	1
+cell line	T47D	RRBS	1
+cell line	T47D	TF ChIP-seq	1
+cell line	T47D	WGS	1
+cell line	T47D	genotyping array	1
+cell line	AG09309	DNAme array	2
+cell line	AG09309	DNase-seq	1
+cell line	AG09309	Histone ChIP-seq	1
+cell line	AG09309	RNA microarray	1
+cell line	AG09309	RRBS	1
+cell line	AG09309	TF ChIP-seq	1
+cell line	AG09309	genotyping array	1
+cell line	AG10803	DNAme array	2
+cell line	AG10803	DNase-seq	1
+cell line	AG10803	Histone ChIP-seq	1
+cell line	AG10803	RNA microarray	1
+cell line	AG10803	RRBS	1
+cell line	AG10803	TF ChIP-seq	1
+cell line	AG10803	genotyping array	1
+cell line	CMK	DNAme array	3
+cell line	CMK	genotyping array	2
+cell line	CMK	DNase-seq	1
+cell line	CMK	RNA microarray	1
+cell line	CMK	RRBS	1
+cell line	Caki2	Repli-seq	2
+cell line	Caki2	DNAme array	1
+cell line	Caki2	DNase-seq	1
+cell line	Caki2	Hi-C	1
+cell line	Caki2	WGS	1
+cell line	Caki2	genotyping array	1
+cell line	Caki2	total RNA-seq	1
+cell line	E14TG2a.4	Histone ChIP-seq	5
+cell line	E14TG2a.4	TF ChIP-seq	3
+cell line	F121-9	long read RNA-seq	7
+cell line	F121-9	total RNA-seq	1
+cell line	Jurkat, Clone E6-1	ChIA-PET	1
+cell line	Jurkat, Clone E6-1	DNAme array	1
+cell line	Jurkat, Clone E6-1	DNase-seq	1
+cell line	Jurkat, Clone E6-1	Histone ChIP-seq	1
+cell line	Jurkat, Clone E6-1	RNA microarray	1
+cell line	Jurkat, Clone E6-1	RRBS	1
+cell line	Jurkat, Clone E6-1	genotyping array	1
+cell line	Jurkat, Clone E6-1	polyA plus RNA-seq	1
+cell line	MCF 10A	ChIA-PET	2
+cell line	MCF 10A	DNAme array	2
+cell line	MCF 10A	genotyping array	2
+cell line	MCF 10A	DNase-seq	1
+cell line	MCF 10A	RRBS	1
+cell line	MG63	Histone ChIP-seq	4
+cell line	MG63	DNase-seq	2
+cell line	MG63	genotyping array	1
+cell line	MG63	total RNA-seq	1
+cell line	UCSF-4	Histone ChIP-seq	6
+cell line	UCSF-4	microRNA-seq	1
+cell line	UCSF-4	polyA plus RNA-seq	1
+cell line	iPS DF 19.11	Histone ChIP-seq	6
+cell line	iPS DF 19.11	DNase-seq	1
+cell line	iPS DF 19.11	WGBS	1
+cell line	iPS DF 6.9	Histone ChIP-seq	6
+cell line	iPS DF 6.9	DNase-seq	1
+cell line	iPS DF 6.9	WGBS	1
+cell line	ACC112	Histone ChIP-seq	7
+cell line	BG02	Repli-seq	6
+cell line	BG02	Repli-chip	1
+cell line	G401	Repli-seq	2
+cell line	G401	DNAme array	1
+cell line	G401	DNase-seq	1
+cell line	G401	Hi-C	1
+cell line	G401	genotyping array	1
+cell line	G401	total RNA-seq	1
+cell line	GM12801	Repli-seq	6
+cell line	GM12801	TF ChIP-seq	1
+cell line	GM19240	ChIA-PET	5
+cell line	GM19240	DNase-seq	1
+cell line	GM19240	RRBS	1
+cell line	HUES48	Histone ChIP-seq	7
+cell line	HUES6	Histone ChIP-seq	7
+cell line	Patski	polyA plus RNA-seq	2
+cell line	Patski	ATAC-seq	1
+cell line	Patski	DNase-seq	1
+cell line	Patski	Hi-C	1
+cell line	Patski	Histone ChIP-seq	1
+cell line	Patski	TF ChIP-seq	1
+cell line	iPS-18a	Histone ChIP-seq	7
+cell line	iPS-20b	Histone ChIP-seq	7
+cell line	GM12812	Repli-seq	6
+cell line	GM12813	Repli-seq	6
+cell line	RPMI7951	DNAme array	1
+cell line	RPMI7951	DNase-seq	1
+cell line	RPMI7951	Hi-C	1
+cell line	RPMI7951	RAMPAGE	1
+cell line	RPMI7951	genotyping array	1
+cell line	RPMI7951	total RNA-seq	1
+cell line	U-87 MG	DNAme array	2
+cell line	U-87 MG	genotyping array	2
+cell line	U-87 MG	RRBS	1
+cell line	U-87 MG	polyA plus RNA-seq	1
+cell line	iPS-15b	Histone ChIP-seq	6
+cell line	A172	DNAme array	1
+cell line	A172	DNase-seq	1
+cell line	A172	RAMPAGE	1
+cell line	A172	genotyping array	1
+cell line	A172	total RNA-seq	1
+cell line	Daoy	DNAme array	1
+cell line	Daoy	DNase-seq	1
+cell line	Daoy	RAMPAGE	1
+cell line	Daoy	genotyping array	1
+cell line	Daoy	total RNA-seq	1
+cell line	GM19238	ChIA-PET	4
+cell line	GM19238	DNase-seq	1
+cell line	H4	DNAme array	1
+cell line	H4	DNase-seq	1
+cell line	H4	RAMPAGE	1
+cell line	H4	genotyping array	1
+cell line	H4	total RNA-seq	1
+cell line	M059J	DNAme array	1
+cell line	M059J	DNase-seq	1
+cell line	M059J	RAMPAGE	1
+cell line	M059J	genotyping array	1
+cell line	M059J	total RNA-seq	1
+cell line	RWPE1	ChIA-PET	2
+cell line	RWPE1	DNase-seq	1
+cell line	RWPE1	Histone ChIP-seq	1
+cell line	RWPE1	TF ChIP-seq	1
+cell line	ES-I3	Histone ChIP-seq	4
+cell line	GM10248	ChIA-PET	2
+cell line	GM10248	DNase-seq	1
+cell line	GM10248	TF ChIP-seq	1
+cell line	GM12864	DNase-seq	1
+cell line	GM12864	Histone ChIP-seq	1
+cell line	GM12864	RNA microarray	1
+cell line	GM12864	TF ChIP-seq	1
+cell line	GM12865	DNase-seq	1
+cell line	GM12865	Histone ChIP-seq	1
+cell line	GM12865	RNA microarray	1
+cell line	GM12865	TF ChIP-seq	1
+cell line	H54	TF ChIP-seq	2
+cell line	H54	DNase-seq	1
+cell line	H54	FAIRE-seq	1
+cell line	HFF-Myc	DNase-seq	1
+cell line	HFF-Myc	Histone ChIP-seq	1
+cell line	HFF-Myc	RNA microarray	1
+cell line	HFF-Myc	TF ChIP-seq	1
+cell line	HT-29	DNase-seq	1
+cell line	HT-29	RAMPAGE	1
+cell line	HT-29	small RNA-seq	1
+cell line	HT-29	total RNA-seq	1
+cell line	HTR-8/SVneo	DNase-seq	1
+cell line	HTR-8/SVneo	FAIRE-seq	1
+cell line	HTR-8/SVneo	RRBS	1
+cell line	HTR-8/SVneo	genotyping array	1
+cell line	KOPT-K1	Histone ChIP-seq	4
+cell line	LHCN-M2	DNase-seq	1
+cell line	LHCN-M2	RAMPAGE	1
+cell line	LHCN-M2	polyA plus RNA-seq	1
+cell line	LHCN-M2	total RNA-seq	1
+cell line	LNCAP	Repli-seq	2
+cell line	LNCAP	ChIA-PET	1
+cell line	LNCAP	TF ChIP-seq	1
+cell line	WI38	DNase-seq	1
+cell line	WI38	Histone ChIP-seq	1
+cell line	WI38	RNA microarray	1
+cell line	WI38	TF ChIP-seq	1
+cell line	22Rv1	TF ChIP-seq	2
+cell line	22Rv1	Histone ChIP-seq	1
+cell line	A375	RAMPAGE	1
+cell line	A375	small RNA-seq	1
+cell line	A375	total RNA-seq	1
+cell line	C4-2B	TF ChIP-seq	2
+cell line	C4-2B	Histone ChIP-seq	1
+cell line	D721Med	DNase-seq	1
+cell line	D721Med	FAIRE-seq	1
+cell line	D721Med	TF ChIP-seq	1
+cell line	OVCAR3	DNAme array	1
+cell line	OVCAR3	RRBS	1
+cell line	OVCAR3	genotyping array	1
+cell line	urothelium cell line	DNase-seq	1
+cell line	urothelium cell line	FAIRE-seq	1
+cell line	urothelium cell line	RNA microarray	1
+cell line	1182-4H	polyA plus RNA-seq	1
+cell line	1182-4H	total RNA-seq	1
+cell line	416B	DNase-seq	1
+cell line	416B	polyA plus RNA-seq	1
+cell line	A20	DNase-seq	1
+cell line	A20	polyA plus RNA-seq	1
+cell line	ACHN	DNase-seq	1
+cell line	ACHN	Hi-C	1
+cell line	AG08395	DNase-seq	1
+cell line	AG08395	RNA microarray	1
+cell line	AG08396	DNase-seq	1
+cell line	AG08396	RNA microarray	1
+cell line	AG20443	DNase-seq	1
+cell line	AG20443	RNA microarray	1
+cell line	C3H10T1/2	polyA plus RNA-seq	2
+cell line	CME-L1	polyA plus RNA-seq	1
+cell line	CME-L1	total RNA-seq	1
+cell line	CME-W2	polyA plus RNA-seq	1
+cell line	CME-W2	total RNA-seq	1
+cell line	COLO829	DNase-seq	1
+cell line	COLO829	RNA microarray	1
+cell line	CWRU1	DNase-seq	1
+cell line	CWRU1	RNA microarray	1
+cell line	G1E-ER4	TF ChIP-seq	1
+cell line	G1E-ER4	polyA plus RNA-seq	1
+cell line	GM03348	DNase-seq	2
+cell line	GM08714	Histone ChIP-seq	1
+cell line	GM08714	TF ChIP-seq	1
+cell line	GM10266	DNase-seq	1
+cell line	GM10266	TF ChIP-seq	1
+cell line	GM12875	Histone ChIP-seq	1
+cell line	GM12875	TF ChIP-seq	1
+cell line	GM13976	DNase-seq	1
+cell line	GM13976	TF ChIP-seq	1
+cell line	GM13977	DNase-seq	1
+cell line	GM13977	TF ChIP-seq	1
+cell line	GM18505	ATAC-seq	1
+cell line	GM18505	TF ChIP-seq	1
+cell line	GM18507	DNase-seq	1
+cell line	GM18507	FAIRE-seq	1
+cell line	GM2	polyA plus RNA-seq	1
+cell line	GM2	total RNA-seq	1
+cell line	GM20000	DNase-seq	1
+cell line	GM20000	TF ChIP-seq	1
+cell line	GM20431	Hi-C	2
+cell line	HGPS cell	DNAme array	1
+cell line	HGPS cell	RRBS	1
+cell line	HuH-7	DNase-seq	1
+cell line	HuH-7	RNA microarray	1
+cell line	HuH-7.5	DNase-seq	1
+cell line	HuH-7.5	RNA microarray	1
+cell line	KBM-7	DNase-seq	1
+cell line	KBM-7	Hi-C	1
+cell line	ML-DmBG1-c1	polyA plus RNA-seq	1
+cell line	ML-DmBG1-c1	total RNA-seq	1
+cell line	ML-DmBG2-c2	polyA plus RNA-seq	1
+cell line	ML-DmBG2-c2	total RNA-seq	1
+cell line	ML-DmD11	polyA plus RNA-seq	1
+cell line	ML-DmD11	total RNA-seq	1
+cell line	ML-DmD16-c3	polyA plus RNA-seq	1
+cell line	ML-DmD16-c3	total RNA-seq	1
+cell line	ML-DmD20-c5	polyA plus RNA-seq	1
+cell line	ML-DmD20-c5	total RNA-seq	1
+cell line	ML-DmD21	polyA plus RNA-seq	1
+cell line	ML-DmD21	total RNA-seq	1
+cell line	ML-DmD32	polyA plus RNA-seq	1
+cell line	ML-DmD32	total RNA-seq	1
+cell line	ML-DmD4-c1	polyA plus RNA-seq	1
+cell line	ML-DmD4-c1	total RNA-seq	1
+cell line	ML-DmD8	polyA plus RNA-seq	1
+cell line	ML-DmD8	total RNA-seq	1
+cell line	ML-DmD9	polyA plus RNA-seq	1
+cell line	ML-DmD9	total RNA-seq	1
+cell line	NIH3T3	DNase-seq	1
+cell line	NIH3T3	polyA plus RNA-seq	1
+cell line	RCC 7860	DNase-seq	1
+cell line	RCC 7860	FAIRE-seq	1
+cell line	S1	polyA plus RNA-seq	1
+cell line	S1	total RNA-seq	1
+cell line	S3	polyA plus RNA-seq	1
+cell line	S3	total RNA-seq	1
+cell line	SH-SY5Y	TF ChIP-seq	2
+cell line	Sg4	polyA plus RNA-seq	1
+cell line	Sg4	total RNA-seq	1
+cell line	UCH-1	RNA microarray	1
+cell line	UCH-1	RRBS	1
+cell line	VCaP	Histone ChIP-seq	1
+cell line	VCaP	TF ChIP-seq	1
+cell line	hTERT-HM	RRBS	1
+cell line	hTERT-HM	genotyping array	1
+cell line	iPS-18c	Histone ChIP-seq	2
+cell line	iPS-NIHi11	DNase-seq	1
+cell line	iPS-NIHi11	RNA microarray	1
+cell line	iPS-NIHi7	DNase-seq	1
+cell line	iPS-NIHi7	RNA microarray	1
+cell line	mbn2	polyA plus RNA-seq	1
+cell line	mbn2	total RNA-seq	1
+cell line	mouse embryonic stem cell	Hi-C	2
+cell line	3134	DNase-seq	1
+cell line	3T3-L1	DNase-seq	1
+cell line	46C	Repli-chip	1
+cell line	8988T	DNase-seq	1
+cell line	A204.1	FAIRE-seq	1
+cell line	AG08470	RRBS	1
+cell line	ARPE-19	ChIA-PET	1
+cell line	BG01	Repli-chip	1
+cell line	C0202	Repli-chip	1
+cell line	C803	DNase-seq	1
+cell line	CH12F3	Hi-C	1
+cell line	CyT49	Repli-chip	1
+cell line	D341Med	DNase-seq	1
+cell line	DLD1	Hi-C	1
+cell line	DU 145	ChIA-PET	1
+cell line	EH	DNase-seq	1
+cell line	EL	DNase-seq	1
+cell line	ELF-1	DNase-seq	1
+cell line	ELR	DNase-seq	1
+cell line	ES-CJ7	DNase-seq	1
+cell line	ES-D3	Repli-chip	1
+cell line	G401.6	FAIRE-seq	1
+cell line	GM04503	DNase-seq	1
+cell line	GM04504	DNase-seq	1
+cell line	GM06999	Repli-chip	1
+cell line	GM10847	TF ChIP-seq	1
+cell line	GM12866	Histone ChIP-seq	1
+cell line	GM12872	TF ChIP-seq	1
+cell line	GM12873	TF ChIP-seq	1
+cell line	GM12874	TF ChIP-seq	1
+cell line	GM15510	TF ChIP-seq	1
+cell line	GM18498	ATAC-seq	1
+cell line	GM18499	ATAC-seq	1
+cell line	GM18502	ATAC-seq	1
+cell line	GM18508	ATAC-seq	1
+cell line	GM18511	ATAC-seq	1
+cell line	GM18517	ATAC-seq	1
+cell line	GM18519	ATAC-seq	1
+cell line	GM18520	ATAC-seq	1
+cell line	GM18526	TF ChIP-seq	1
+cell line	GM18858	ATAC-seq	1
+cell line	GM18861	ATAC-seq	1
+cell line	GM18867	ATAC-seq	1
+cell line	GM18868	ATAC-seq	1
+cell line	GM18870	ATAC-seq	1
+cell line	GM18873	ATAC-seq	1
+cell line	GM18907	ATAC-seq	1
+cell line	GM18909	ATAC-seq	1
+cell line	GM18951	TF ChIP-seq	1
+cell line	GM19023	ATAC-seq	1
+cell line	GM19025	ATAC-seq	1
+cell line	GM19035	ATAC-seq	1
+cell line	GM19043	ATAC-seq	1
+cell line	GM19099	TF ChIP-seq	1
+cell line	GM19193	TF ChIP-seq	1
+cell line	GM19324	ATAC-seq	1
+cell line	GM19328	ATAC-seq	1
+cell line	GM19351	ATAC-seq	1
+cell line	GM19372	ATAC-seq	1
+cell line	GM19395	ATAC-seq	1
+cell line	GM19397	ATAC-seq	1
+cell line	GM19438	ATAC-seq	1
+cell line	GM19452	ATAC-seq	1
+cell line	GM19455	ATAC-seq	1
+cell line	GM19463	ATAC-seq	1
+cell line	GM19467	ATAC-seq	1
+cell line	GM19468	ATAC-seq	1
+cell line	GM21360	ATAC-seq	1
+cell line	GM21367	ATAC-seq	1
+cell line	GM21381	ATAC-seq	1
+cell line	GM21390	ATAC-seq	1
+cell line	GM21423	ATAC-seq	1
+cell line	GM21447	ATAC-seq	1
+cell line	GM21515	ATAC-seq	1
+cell line	GM21526	ATAC-seq	1
+cell line	GM21528	ATAC-seq	1
+cell line	GM21529	ATAC-seq	1
+cell line	GM21576	ATAC-seq	1
+cell line	GM21619	ATAC-seq	1
+cell line	GM21717	ATAC-seq	1
+cell line	GM21723	ATAC-seq	1
+cell line	GM21737	ATAC-seq	1
+cell line	GM21786	ATAC-seq	1
+cell line	GM21825	ATAC-seq	1
+cell line	HCEC 1CT	DNase-seq	1
+cell line	HG02571	ATAC-seq	1
+cell line	HG02588	ATAC-seq	1
+cell line	HG02610	ATAC-seq	1
+cell line	HG02623	ATAC-seq	1
+cell line	HG02642	ATAC-seq	1
+cell line	HG02678	ATAC-seq	1
+cell line	HG02759	ATAC-seq	1
+cell line	HG02763	ATAC-seq	1
+cell line	HG02798	ATAC-seq	1
+cell line	HG02840	ATAC-seq	1
+cell line	HG02852	ATAC-seq	1
+cell line	HG02870	ATAC-seq	1
+cell line	HG02884	ATAC-seq	1
+cell line	HG02885	ATAC-seq	1
+cell line	HG02938	ATAC-seq	1
+cell line	HG02943	ATAC-seq	1
+cell line	HG02970	ATAC-seq	1
+cell line	HG02973	ATAC-seq	1
+cell line	HG02981	ATAC-seq	1
+cell line	HG03025	ATAC-seq	1
+cell line	HG03039	ATAC-seq	1
+cell line	HG03045	ATAC-seq	1
+cell line	HG03060	ATAC-seq	1
+cell line	HG03064	ATAC-seq	1
+cell line	HG03066	ATAC-seq	1
+cell line	HG03095	ATAC-seq	1
+cell line	HG03097	ATAC-seq	1
+cell line	HG03103	ATAC-seq	1
+cell line	HG03108	ATAC-seq	1
+cell line	HG03135	ATAC-seq	1
+cell line	HG03139	ATAC-seq	1
+cell line	HG03159	ATAC-seq	1
+cell line	HG03175	ATAC-seq	1
+cell line	HG03196	ATAC-seq	1
+cell line	HG03280	ATAC-seq	1
+cell line	HG03342	ATAC-seq	1
+cell line	HG03354	ATAC-seq	1
+cell line	HG03378	ATAC-seq	1
+cell line	HG03432	ATAC-seq	1
+cell line	HG03439	ATAC-seq	1
+cell line	HG03442	ATAC-seq	1
+cell line	HG03457	ATAC-seq	1
+cell line	HG03460	ATAC-seq	1
+cell line	HG03469	ATAC-seq	1
+cell line	HG03520	ATAC-seq	1
+cell line	HG03521	ATAC-seq	1
+cell line	HG03558	ATAC-seq	1
+cell line	HG03565	ATAC-seq	1
+cell line	HG03571	ATAC-seq	1
+cell line	HG03575	ATAC-seq	1
+cell line	HK-2	DNase-seq	1
+cell line	HPDE6-E6E7	DNase-seq	1
+cell line	HS-27A	DNase-seq	1
+cell line	HS-5	DNase-seq	1
+cell line	HT-1197	ChIA-PET	1
+cell line	HT-1376	ChIA-PET	1
+cell line	J185a	Repli-chip	1
+cell line	K1	ChIA-PET	1
+cell line	KU-19-19	ChIA-PET	1
+cell line	L-1210 cell	Repli-chip	1
+cell line	L1-S8	DNase-seq	1
+cell line	L1-S8R	DNase-seq	1
+cell line	LoVo	DNase-seq	1
+cell line	MEL-GATA-1-ER	DNase-seq	1
+cell line	ML-DmD20-c2	total RNA-seq	1
+cell line	MN1	DNase-seq	1
+cell line	MSLCL	ChIA-PET	1
+cell line	MSiPS	ChIA-PET	1
+cell line	Mel-2183	RNA microarray	1
+cell line	NAMALWA	DNase-seq	1
+cell line	NC-NC	Repli-chip	1
+cell line	NCI-H1437	ChIA-PET	1
+cell line	NCI-H226	DNase-seq	1
+cell line	OSC	polyA plus RNA-seq	1
+cell line	OSS	polyA plus RNA-seq	1
+cell line	R1	DNase-seq	1
+cell line	RCC	DNase-seq	1
+cell line	RKO	DNase-seq	1
+cell line	RPMI8226	DNase-seq	1
+cell line	Raji	TF ChIP-seq	1
+cell line	SU-DHL-2	ChIA-PET	1
+cell line	SU-DHL-4	ChIA-PET	1
+cell line	SW480	DNase-seq	1
+cell line	THP-1	Hi-C	1
+cell line	TT2	Repli-chip	1
+cell line	TTC549	FAIRE-seq	1
+cell line	WW6	DNase-seq	1
+cell line	ZHBTc4	DNase-seq	1
+cell line	fGS/OSS	polyA plus RNA-seq	1
+cell line	hFib2-iPS4	Repli-chip	1
+cell line	hTERT RPE-1	Hi-C	1
+cell line	hTERT-HME1	ChIA-PET	1
+cell line	iPS DF 19.7	DNase-seq	1
+cell line	iPS DF 4.7	DNase-seq	1
+cell line	iPS-11a	Histone ChIP-seq	1
+cell line	iPS-5	Repli-chip	1
+primary cell	T-cell	DNase-seq	51
+primary cell	T-cell	Mint-ChIP-seq	12
+primary cell	T-cell	Histone ChIP-seq	11
+primary cell	T-cell	ATAC-seq	4
+primary cell	T-cell	total RNA-seq	3
+primary cell	T-cell	Repli-chip	1
+primary cell	T-cell	WGBS	1
+primary cell	T-cell	polyA plus RNA-seq	1
+primary cell	macrophage	total RNA-seq	78
+primary cell	macrophage	polyA plus RNA-seq	1
+primary cell	CD4-positive, alpha-beta memory T cell	Mint-ChIP-seq	44
+primary cell	CD4-positive, alpha-beta memory T cell	Histone ChIP-seq	15
+primary cell	CD4-positive, alpha-beta memory T cell	microRNA-seq	2
+primary cell	CD4-positive, alpha-beta memory T cell	total RNA-seq	2
+primary cell	CD4-positive, alpha-beta memory T cell	DNase-seq	1
+primary cell	CD14-positive monocyte	Mint-ChIP-seq	28
+primary cell	CD14-positive monocyte	Histone ChIP-seq	21
+primary cell	CD14-positive monocyte	DNase-seq	7
+primary cell	CD14-positive monocyte	polyA plus RNA-seq	2
+primary cell	CD14-positive monocyte	CAGE	1
+primary cell	CD14-positive monocyte	TF ChIP-seq	1
+primary cell	CD14-positive monocyte	WGBS	1
+primary cell	CD14-positive monocyte	polyA minus RNA-seq	1
+primary cell	CD14-positive monocyte	small RNA-seq	1
+primary cell	endothelial cell of umbilical vein	Histone ChIP-seq	16
+primary cell	endothelial cell of umbilical vein	TF ChIP-seq	13
+primary cell	endothelial cell of umbilical vein	Repli-seq	6
+primary cell	endothelial cell of umbilical vein	CAGE	5
+primary cell	endothelial cell of umbilical vein	polyA plus RNA-seq	5
+primary cell	endothelial cell of umbilical vein	polyA minus RNA-seq	3
+primary cell	endothelial cell of umbilical vein	ChIA-PET	2
+primary cell	endothelial cell of umbilical vein	DNase-seq	2
+primary cell	endothelial cell of umbilical vein	Hi-C	2
+primary cell	endothelial cell of umbilical vein	RNA-PET	2
+primary cell	endothelial cell of umbilical vein	DNAme array	1
+primary cell	endothelial cell of umbilical vein	FAIRE-seq	1
+primary cell	endothelial cell of umbilical vein	RNA microarray	1
+primary cell	endothelial cell of umbilical vein	genotyping array	1
+primary cell	endothelial cell of umbilical vein	microRNA counts	1
+primary cell	endothelial cell of umbilical vein	small RNA-seq	1
+primary cell	naive thymus-derived CD4-positive, alpha-beta T cell	Mint-ChIP-seq	33
+primary cell	naive thymus-derived CD4-positive, alpha-beta T cell	Histone ChIP-seq	16
+primary cell	naive thymus-derived CD4-positive, alpha-beta T cell	DNase-seq	4
+primary cell	naive thymus-derived CD4-positive, alpha-beta T cell	polyA plus RNA-seq	2
+primary cell	naive thymus-derived CD4-positive, alpha-beta T cell	microRNA-seq	1
+primary cell	keratinocyte	Histone ChIP-seq	16
+primary cell	keratinocyte	Repli-seq	6
+primary cell	keratinocyte	CAGE	5
+primary cell	keratinocyte	RNA microarray	5
+primary cell	keratinocyte	polyA plus RNA-seq	5
+primary cell	keratinocyte	TF ChIP-seq	4
+primary cell	keratinocyte	polyA minus RNA-seq	3
+primary cell	keratinocyte	small RNA-seq	3
+primary cell	keratinocyte	DNase-seq	2
+primary cell	keratinocyte	Hi-C	2
+primary cell	keratinocyte	RNA-PET	2
+primary cell	keratinocyte	FAIRE-seq	1
+primary cell	common myeloid progenitor, CD34-positive	Histone ChIP-seq	33
+primary cell	common myeloid progenitor, CD34-positive	DNase-seq	12
+primary cell	common myeloid progenitor, CD34-positive	WGBS	1
+primary cell	common myeloid progenitor, CD34-positive	polyA plus RNA-seq	1
+primary cell	B cell	Histone ChIP-seq	25
+primary cell	B cell	DNase-seq	7
+primary cell	B cell	Mint-ChIP-seq	4
+primary cell	B cell	polyA plus RNA-seq	3
+primary cell	B cell	TF ChIP-seq	2
+primary cell	B cell	ATAC-seq	1
+primary cell	B cell	CAGE	1
+primary cell	B cell	WGBS	1
+primary cell	B cell	polyA minus RNA-seq	1
+primary cell	B cell	small RNA-seq	1
+primary cell	CD8-positive, alpha-beta memory T cell	Mint-ChIP-seq	35
+primary cell	CD8-positive, alpha-beta memory T cell	Histone ChIP-seq	6
+primary cell	CD8-positive, alpha-beta memory T cell	DNase-seq	3
+primary cell	CD8-positive, alpha-beta memory T cell	total RNA-seq	2
+primary cell	mammary epithelial cell	Histone ChIP-seq	19
+primary cell	mammary epithelial cell	DNAme array	3
+primary cell	mammary epithelial cell	Hi-C	3
+primary cell	mammary epithelial cell	TF ChIP-seq	3
+primary cell	mammary epithelial cell	DNase-seq	2
+primary cell	mammary epithelial cell	genotyping array	2
+primary cell	mammary epithelial cell	microRNA-seq	2
+primary cell	mammary epithelial cell	polyA plus RNA-seq	2
+primary cell	mammary epithelial cell	CAGE	1
+primary cell	mammary epithelial cell	RNA microarray	1
+primary cell	mammary epithelial cell	RRBS	1
+primary cell	mammary epithelial cell	WGBS	1
+primary cell	mammary epithelial cell	polyA minus RNA-seq	1
+primary cell	mammary epithelial cell	small RNA-seq	1
+primary cell	mammary epithelial cell	total RNA-seq	1
+primary cell	CD8-positive, alpha-beta T cell	Histone ChIP-seq	18
+primary cell	CD8-positive, alpha-beta T cell	DNase-seq	6
+primary cell	CD8-positive, alpha-beta T cell	Mint-ChIP-seq	6
+primary cell	CD8-positive, alpha-beta T cell	polyA plus RNA-seq	2
+primary cell	CD8-positive, alpha-beta T cell	total RNA-seq	2
+primary cell	CD8-positive, alpha-beta T cell	ATAC-seq	1
+primary cell	CD8-positive, alpha-beta T cell	microRNA-seq	1
+primary cell	neurosphere	Histone ChIP-seq	25
+primary cell	neurosphere	microRNA-seq	8
+primary cell	neurosphere	polyA plus RNA-seq	3
+primary cell	CD4-positive, alpha-beta T cell	DNase-seq	12
+primary cell	CD4-positive, alpha-beta T cell	Histone ChIP-seq	12
+primary cell	CD4-positive, alpha-beta T cell	Mint-ChIP-seq	6
+primary cell	CD4-positive, alpha-beta T cell	polyA plus RNA-seq	2
+primary cell	CD4-positive, alpha-beta T cell	total RNA-seq	2
+primary cell	CD4-positive, alpha-beta T cell	microRNA-seq	1
+primary cell	peripheral blood mononuclear cell	Histone ChIP-seq	25
+primary cell	peripheral blood mononuclear cell	long read RNA-seq	4
+primary cell	peripheral blood mononuclear cell	microRNA-seq	3
+primary cell	peripheral blood mononuclear cell	polyA plus RNA-seq	2
+primary cell	peripheral blood mononuclear cell	total RNA-seq	1
+primary cell	foreskin fibroblast	Histone ChIP-seq	19
+primary cell	foreskin fibroblast	DNase-seq	4
+primary cell	foreskin fibroblast	RNA microarray	2
+primary cell	foreskin fibroblast	TF ChIP-seq	2
+primary cell	foreskin fibroblast	microRNA-seq	2
+primary cell	foreskin fibroblast	polyA plus RNA-seq	2
+primary cell	foreskin fibroblast	DNAme array	1
+primary cell	foreskin fibroblast	RRBS	1
+primary cell	foreskin fibroblast	genotyping array	1
+primary cell	immature natural killer cell	Mint-ChIP-seq	33
+primary cell	naive thymus-derived CD8-positive, alpha-beta T cell	Mint-ChIP-seq	33
+primary cell	foreskin keratinocyte	Histone ChIP-seq	19
+primary cell	foreskin keratinocyte	microRNA-seq	3
+primary cell	foreskin keratinocyte	polyA plus RNA-seq	3
+primary cell	foreskin keratinocyte	DNase-seq	2
+primary cell	foreskin keratinocyte	ATAC-seq	1
+primary cell	foreskin keratinocyte	PAS-seq	1
+primary cell	foreskin keratinocyte	RAMPAGE	1
+primary cell	foreskin keratinocyte	TF ChIP-seq	1
+primary cell	foreskin keratinocyte	total RNA-seq	1
+primary cell	naive B cell	Mint-ChIP-seq	29
+primary cell	naive B cell	DNase-seq	1
+primary cell	skeletal muscle myoblast	Histone ChIP-seq	12
+primary cell	skeletal muscle myoblast	genotyping array	3
+primary cell	skeletal muscle myoblast	DNAme array	2
+primary cell	skeletal muscle myoblast	TF ChIP-seq	2
+primary cell	skeletal muscle myoblast	polyA plus RNA-seq	2
+primary cell	skeletal muscle myoblast	DNase-seq	1
+primary cell	skeletal muscle myoblast	RAMPAGE	1
+primary cell	skeletal muscle myoblast	RNA microarray	1
+primary cell	skeletal muscle myoblast	RRBS	1
+primary cell	skeletal muscle myoblast	WGBS	1
+primary cell	skeletal muscle myoblast	polyA minus RNA-seq	1
+primary cell	skeletal muscle myoblast	total RNA-seq	1
+primary cell	fibroblast of lung	Histone ChIP-seq	14
+primary cell	fibroblast of lung	TF ChIP-seq	4
+primary cell	fibroblast of lung	DNase-seq	3
+primary cell	fibroblast of lung	RNA microarray	2
+primary cell	fibroblast of lung	polyA plus RNA-seq	2
+primary cell	fibroblast of lung	polyA minus RNA-seq	1
+primary cell	fibroblast of lung	total RNA-seq	1
+primary cell	astrocyte	Histone ChIP-seq	11
+primary cell	astrocyte	genotyping array	3
+primary cell	astrocyte	DNAme array	2
+primary cell	astrocyte	RRBS	2
+primary cell	astrocyte	TF ChIP-seq	2
+primary cell	astrocyte	DNase-seq	1
+primary cell	astrocyte	FAIRE-seq	1
+primary cell	astrocyte	RNA microarray	1
+primary cell	astrocyte	microRNA-seq	1
+primary cell	astrocyte	polyA plus RNA-seq	1
+primary cell	astrocyte	total RNA-seq	1
+primary cell	foreskin melanocyte	Histone ChIP-seq	17
+primary cell	foreskin melanocyte	microRNA-seq	5
+primary cell	foreskin melanocyte	DNase-seq	2
+primary cell	foreskin melanocyte	polyA plus RNA-seq	2
+primary cell	CD4-positive, CD25-positive, alpha-beta regulatory T cell	Mint-ChIP-seq	18
+primary cell	CD4-positive, CD25-positive, alpha-beta regulatory T cell	Histone ChIP-seq	6
+primary cell	CD4-positive, CD25-positive, alpha-beta regulatory T cell	DNase-seq	1
+primary cell	CD8-positive naive resting alpha-beta T cell	Mint-ChIP-seq	15
+primary cell	CD8-positive naive resting alpha-beta T cell	DNase-seq	4
+primary cell	CD8-positive naive resting alpha-beta T cell	total RNA-seq	2
+primary cell	regulatory T cell	Histone ChIP-seq	7
+primary cell	regulatory T cell	polyA plus RNA-seq	6
+primary cell	regulatory T cell	DNase-seq	4
+primary cell	regulatory T cell	Mint-ChIP-seq	2
+primary cell	regulatory T cell	ATAC-seq	1
+primary cell	IgD-negative memory B cell	Mint-ChIP-seq	19
+primary cell	CD4-positive naive resting alpha-beta T cell	Mint-ChIP-seq	13
+primary cell	CD4-positive naive resting alpha-beta T cell	DNase-seq	3
+primary cell	CD4-positive naive resting alpha-beta T cell	total RNA-seq	2
+primary cell	fibroblast of dermis	Histone ChIP-seq	11
+primary cell	fibroblast of dermis	TF ChIP-seq	2
+primary cell	fibroblast of dermis	CAGE	1
+primary cell	fibroblast of dermis	DNase-seq	1
+primary cell	fibroblast of dermis	RNA microarray	1
+primary cell	fibroblast of dermis	small RNA-seq	1
+primary cell	fibroblast of dermis	total RNA-seq	1
+primary cell	osteoblast	Histone ChIP-seq	10
+primary cell	osteoblast	CAGE	1
+primary cell	osteoblast	DNase-seq	1
+primary cell	osteoblast	RNA microarray	1
+primary cell	osteoblast	RRBS	1
+primary cell	osteoblast	TF ChIP-seq	1
+primary cell	osteoblast	small RNA-seq	1
+primary cell	osteoblast	total RNA-seq	1
+primary cell	activated CD8-positive, naive alpha-beta T cell	Mint-ChIP-seq	12
+primary cell	activated CD8-positive, naive alpha-beta T cell	total RNA-seq	4
+primary cell	fibroblast of breast	Histone ChIP-seq	11
+primary cell	fibroblast of breast	microRNA-seq	2
+primary cell	fibroblast of breast	polyA plus RNA-seq	2
+primary cell	myoepithelial cell of mammary gland	Histone ChIP-seq	12
+primary cell	myoepithelial cell of mammary gland	microRNA-seq	2
+primary cell	myoepithelial cell of mammary gland	polyA plus RNA-seq	1
+primary cell	activated T-cell	Mint-ChIP-seq	7
+primary cell	activated T-cell	ATAC-seq	4
+primary cell	activated T-cell	total RNA-seq	3
+primary cell	bronchial epithelial cell	Histone ChIP-seq	3
+primary cell	bronchial epithelial cell	DNAme array	2
+primary cell	bronchial epithelial cell	RRBS	2
+primary cell	bronchial epithelial cell	genotyping array	2
+primary cell	bronchial epithelial cell	DNase-seq	1
+primary cell	bronchial epithelial cell	FAIRE-seq	1
+primary cell	bronchial epithelial cell	RNA microarray	1
+primary cell	bronchial epithelial cell	TF ChIP-seq	1
+primary cell	bronchial epithelial cell	total RNA-seq	1
+primary cell	erythroblast	Histone ChIP-seq	5
+primary cell	erythroblast	TF ChIP-seq	5
+primary cell	erythroblast	total RNA-seq	2
+primary cell	erythroblast	ATAC-seq	1
+primary cell	erythroblast	polyA plus RNA-seq	1
+primary cell	neutrophil	Histone ChIP-seq	11
+primary cell	neutrophil	ATAC-seq	1
+primary cell	neutrophil	TF ChIP-seq	1
+primary cell	neutrophil	total RNA-seq	1
+primary cell	kidney epithelial cell	Histone ChIP-seq	3
+primary cell	kidney epithelial cell	DNAme array	2
+primary cell	kidney epithelial cell	genotyping array	2
+primary cell	kidney epithelial cell	DNase-seq	1
+primary cell	kidney epithelial cell	RAMPAGE	1
+primary cell	kidney epithelial cell	RNA microarray	1
+primary cell	kidney epithelial cell	RRBS	1
+primary cell	kidney epithelial cell	TF ChIP-seq	1
+primary cell	kidney epithelial cell	total RNA-seq	1
+primary cell	megakaryocyte	Histone ChIP-seq	5
+primary cell	megakaryocyte	TF ChIP-seq	3
+primary cell	megakaryocyte	total RNA-seq	2
+primary cell	megakaryocyte	ATAC-seq	1
+primary cell	megakaryocyte	polyA plus RNA-seq	1
+primary cell	cardiac fibroblast	DNase-seq	3
+primary cell	cardiac fibroblast	Histone ChIP-seq	2
+primary cell	cardiac fibroblast	RNA microarray	2
+primary cell	cardiac fibroblast	DNAme array	1
+primary cell	cardiac fibroblast	RRBS	1
+primary cell	cardiac fibroblast	TF ChIP-seq	1
+primary cell	cardiac fibroblast	genotyping array	1
+primary cell	effector memory CD4-positive, alpha-beta T cell	Histone ChIP-seq	6
+primary cell	effector memory CD4-positive, alpha-beta T cell	DNase-seq	3
+primary cell	effector memory CD4-positive, alpha-beta T cell	polyA plus RNA-seq	2
+primary cell	epithelial cell of proximal tubule	DNAme array	2
+primary cell	epithelial cell of proximal tubule	genotyping array	2
+primary cell	epithelial cell of proximal tubule	DNase-seq	1
+primary cell	epithelial cell of proximal tubule	Histone ChIP-seq	1
+primary cell	epithelial cell of proximal tubule	RAMPAGE	1
+primary cell	epithelial cell of proximal tubule	RNA microarray	1
+primary cell	epithelial cell of proximal tubule	RRBS	1
+primary cell	epithelial cell of proximal tubule	TF ChIP-seq	1
+primary cell	epithelial cell of proximal tubule	total RNA-seq	1
+primary cell	natural killer cell	Histone ChIP-seq	6
+primary cell	natural killer cell	DNase-seq	3
+primary cell	natural killer cell	WGBS	1
+primary cell	natural killer cell	polyA plus RNA-seq	1
+primary cell	activated CD4 positive, naive alpha-beta T cell	Mint-ChIP-seq	6
+primary cell	activated CD4 positive, naive alpha-beta T cell	total RNA-seq	4
+primary cell	inflammation-experienced regulatory T-cells	polyA plus RNA-seq	6
+primary cell	inflammation-experienced regulatory T-cells	Histone ChIP-seq	3
+primary cell	inflammation-experienced regulatory T-cells	ATAC-seq	1
+primary cell	skeletal muscle satellite cell	Histone ChIP-seq	7
+primary cell	skeletal muscle satellite cell	CAGE	1
+primary cell	skeletal muscle satellite cell	small RNA-seq	1
+primary cell	skeletal muscle satellite cell	total RNA-seq	1
+primary cell	activated regulatory T-cells	polyA plus RNA-seq	5
+primary cell	activated regulatory T-cells	Histone ChIP-seq	3
+primary cell	activated regulatory T-cells	ATAC-seq	1
+primary cell	brain microvascular endothelial cell	Histone ChIP-seq	4
+primary cell	brain microvascular endothelial cell	DNase-seq	2
+primary cell	brain microvascular endothelial cell	Hi-C	1
+primary cell	brain microvascular endothelial cell	RNA microarray	1
+primary cell	brain microvascular endothelial cell	TF ChIP-seq	1
+primary cell	cardiac muscle cell	DNAme array	2
+primary cell	cardiac muscle cell	genotyping array	2
+primary cell	cardiac muscle cell	DNase-seq	1
+primary cell	cardiac muscle cell	Histone ChIP-seq	1
+primary cell	cardiac muscle cell	RNA microarray	1
+primary cell	cardiac muscle cell	RRBS	1
+primary cell	cardiac muscle cell	TF ChIP-seq	1
+primary cell	choroid plexus epithelial cell	DNAme array	2
+primary cell	choroid plexus epithelial cell	genotyping array	2
+primary cell	choroid plexus epithelial cell	DNase-seq	1
+primary cell	choroid plexus epithelial cell	Histone ChIP-seq	1
+primary cell	choroid plexus epithelial cell	RNA microarray	1
+primary cell	choroid plexus epithelial cell	RRBS	1
+primary cell	choroid plexus epithelial cell	TF ChIP-seq	1
+primary cell	dermis blood vessel endothelial cell	DNase-seq	4
+primary cell	dermis blood vessel endothelial cell	RNA microarray	4
+primary cell	dermis blood vessel endothelial cell	total RNA-seq	1
+primary cell	retinal pigment epithelial cell	DNAme array	2
+primary cell	retinal pigment epithelial cell	genotyping array	2
+primary cell	retinal pigment epithelial cell	DNase-seq	1
+primary cell	retinal pigment epithelial cell	Histone ChIP-seq	1
+primary cell	retinal pigment epithelial cell	RNA microarray	1
+primary cell	retinal pigment epithelial cell	RRBS	1
+primary cell	retinal pigment epithelial cell	TF ChIP-seq	1
+primary cell	T-helper 1 cell	DNase-seq	7
+primary cell	T-helper 1 cell	RNA microarray	1
+primary cell	renal cortical epithelial cell	DNAme array	2
+primary cell	renal cortical epithelial cell	genotyping array	2
+primary cell	renal cortical epithelial cell	DNase-seq	1
+primary cell	renal cortical epithelial cell	RNA microarray	1
+primary cell	renal cortical epithelial cell	RRBS	1
+primary cell	renal cortical epithelial cell	total RNA-seq	1
+primary cell	T-helper 2 cell	DNase-seq	7
+primary cell	embryonic fibroblast	Histone ChIP-seq	3
+primary cell	embryonic fibroblast	TF ChIP-seq	2
+primary cell	embryonic fibroblast	Repli-chip	1
+primary cell	embryonic fibroblast	polyA plus RNA-seq	1
+primary cell	epithelial cell of alveolus of lung	DNAme array	2
+primary cell	epithelial cell of alveolus of lung	genotyping array	2
+primary cell	epithelial cell of alveolus of lung	RAMPAGE	1
+primary cell	epithelial cell of alveolus of lung	RRBS	1
+primary cell	epithelial cell of alveolus of lung	total RNA-seq	1
+primary cell	epithelial cell of esophagus	DNAme array	1
+primary cell	epithelial cell of esophagus	DNase-seq	1
+primary cell	epithelial cell of esophagus	Histone ChIP-seq	1
+primary cell	epithelial cell of esophagus	RNA microarray	1
+primary cell	epithelial cell of esophagus	RRBS	1
+primary cell	epithelial cell of esophagus	TF ChIP-seq	1
+primary cell	epithelial cell of esophagus	genotyping array	1
+primary cell	epithelial cell of prostate	DNAme array	1
+primary cell	epithelial cell of prostate	DNase-seq	1
+primary cell	epithelial cell of prostate	Histone ChIP-seq	1
+primary cell	epithelial cell of prostate	RNA microarray	1
+primary cell	epithelial cell of prostate	RRBS	1
+primary cell	epithelial cell of prostate	TF ChIP-seq	1
+primary cell	epithelial cell of prostate	genotyping array	1
+primary cell	fibroblast of the aortic adventitia	CAGE	1
+primary cell	fibroblast of the aortic adventitia	DNase-seq	1
+primary cell	fibroblast of the aortic adventitia	Histone ChIP-seq	1
+primary cell	fibroblast of the aortic adventitia	RNA microarray	1
+primary cell	fibroblast of the aortic adventitia	TF ChIP-seq	1
+primary cell	fibroblast of the aortic adventitia	small RNA-seq	1
+primary cell	fibroblast of the aortic adventitia	total RNA-seq	1
+primary cell	fibroblast of villous mesenchyme	CAGE	1
+primary cell	fibroblast of villous mesenchyme	DNase-seq	1
+primary cell	fibroblast of villous mesenchyme	Histone ChIP-seq	1
+primary cell	fibroblast of villous mesenchyme	RNA microarray	1
+primary cell	fibroblast of villous mesenchyme	TF ChIP-seq	1
+primary cell	fibroblast of villous mesenchyme	small RNA-seq	1
+primary cell	fibroblast of villous mesenchyme	total RNA-seq	1
+primary cell	iris pigment epithelial cell	DNAme array	2
+primary cell	iris pigment epithelial cell	genotyping array	2
+primary cell	iris pigment epithelial cell	DNase-seq	1
+primary cell	iris pigment epithelial cell	RNA microarray	1
+primary cell	iris pigment epithelial cell	RRBS	1
+primary cell	luminal epithelial cell of mammary gland	Histone ChIP-seq	4
+primary cell	luminal epithelial cell of mammary gland	microRNA-seq	2
+primary cell	luminal epithelial cell of mammary gland	polyA plus RNA-seq	1
+primary cell	mononuclear cell	Histone ChIP-seq	4
+primary cell	mononuclear cell	DNAme array	1
+primary cell	mononuclear cell	RRBS	1
+primary cell	mononuclear cell	total RNA-seq	1
+primary cell	non-pigmented ciliary epithelial cell	DNAme array	2
+primary cell	non-pigmented ciliary epithelial cell	genotyping array	2
+primary cell	non-pigmented ciliary epithelial cell	DNase-seq	1
+primary cell	non-pigmented ciliary epithelial cell	RNA microarray	1
+primary cell	non-pigmented ciliary epithelial cell	RRBS	1
+primary cell	amniotic epithelial cell	DNAme array	2
+primary cell	amniotic epithelial cell	DNase-seq	1
+primary cell	amniotic epithelial cell	RNA microarray	1
+primary cell	amniotic epithelial cell	RRBS	1
+primary cell	amniotic epithelial cell	genotyping array	1
+primary cell	bone marrow macrophage	Histone ChIP-seq	3
+primary cell	bone marrow macrophage	TF ChIP-seq	2
+primary cell	bone marrow macrophage	polyA plus RNA-seq	1
+primary cell	melanocyte of skin	CAGE	2
+primary cell	melanocyte of skin	small RNA-seq	2
+primary cell	melanocyte of skin	total RNA-seq	2
+primary cell	mesenchymal stem cell	Histone ChIP-seq	6
+primary cell	skeletal muscle cell	DNAme array	1
+primary cell	skeletal muscle cell	DNase-seq	1
+primary cell	skeletal muscle cell	Histone ChIP-seq	1
+primary cell	skeletal muscle cell	RNA microarray	1
+primary cell	skeletal muscle cell	RRBS	1
+primary cell	skeletal muscle cell	genotyping array	1
+primary cell	T-helper 17 cell	DNase-seq	4
+primary cell	T-helper 17 cell	Histone ChIP-seq	1
+primary cell	astrocyte of the cerebellum	DNase-seq	1
+primary cell	astrocyte of the cerebellum	Hi-C	1
+primary cell	astrocyte of the cerebellum	Histone ChIP-seq	1
+primary cell	astrocyte of the cerebellum	RNA microarray	1
+primary cell	astrocyte of the cerebellum	TF ChIP-seq	1
+primary cell	astrocyte of the spinal cord	DNase-seq	1
+primary cell	astrocyte of the spinal cord	Hi-C	1
+primary cell	astrocyte of the spinal cord	Histone ChIP-seq	1
+primary cell	astrocyte of the spinal cord	RNA microarray	1
+primary cell	astrocyte of the spinal cord	TF ChIP-seq	1
+primary cell	dermis microvascular lymphatic vessel endothelial cell	DNase-seq	2
+primary cell	dermis microvascular lymphatic vessel endothelial cell	RNA microarray	2
+primary cell	dermis microvascular lymphatic vessel endothelial cell	total RNA-seq	1
+primary cell	lung microvascular endothelial cell	DNase-seq	2
+primary cell	lung microvascular endothelial cell	RNA microarray	2
+primary cell	lung microvascular endothelial cell	total RNA-seq	1
+primary cell	myoblast	Repli-chip	3
+primary cell	myoblast	RNA microarray	1
+primary cell	myoblast	RRBS	1
+primary cell	trophoblast cell	DNase-seq	4
+primary cell	trophoblast cell	microRNA-seq	1
+primary cell	activated CD4-positive, alpha-beta memory T cell	total RNA-seq	4
+primary cell	activated CD8-positive, alpha-beta memory T cell	total RNA-seq	4
+primary cell	aortic smooth muscle cell	DNAme array	1
+primary cell	aortic smooth muscle cell	RRBS	1
+primary cell	aortic smooth muscle cell	genotyping array	1
+primary cell	aortic smooth muscle cell	total RNA-seq	1
+primary cell	fibroblast of mammary gland	DNase-seq	1
+primary cell	fibroblast of mammary gland	Histone ChIP-seq	1
+primary cell	fibroblast of mammary gland	RNA microarray	1
+primary cell	fibroblast of mammary gland	TF ChIP-seq	1
+primary cell	fibroblast of pulmonary artery	DNase-seq	1
+primary cell	fibroblast of pulmonary artery	Histone ChIP-seq	1
+primary cell	fibroblast of pulmonary artery	RNA microarray	1
+primary cell	fibroblast of pulmonary artery	TF ChIP-seq	1
+primary cell	fibroblast of skin of abdomen	DNase-seq	2
+primary cell	fibroblast of skin of abdomen	polyA plus RNA-seq	2
+primary cell	fibroblast of skin of scalp	DNase-seq	2
+primary cell	fibroblast of skin of scalp	polyA plus RNA-seq	2
+primary cell	glomerular endothelial cell	DNase-seq	1
+primary cell	glomerular endothelial cell	RAMPAGE	1
+primary cell	glomerular endothelial cell	RNA microarray	1
+primary cell	glomerular endothelial cell	total RNA-seq	1
+primary cell	hematopoietic stem cell	ATAC-seq	2
+primary cell	hematopoietic stem cell	total RNA-seq	2
+primary cell	hepatocyte	DNAme array	1
+primary cell	hepatocyte	DNase-seq	1
+primary cell	hepatocyte	RNA microarray	1
+primary cell	hepatocyte	RRBS	1
+primary cell	mammary stem cell	microRNA-seq	2
+primary cell	mammary stem cell	Histone ChIP-seq	1
+primary cell	mammary stem cell	polyA plus RNA-seq	1
+primary cell	megakaryocyte-erythroid progenitor cell	total RNA-seq	2
+primary cell	megakaryocyte-erythroid progenitor cell	ATAC-seq	1
+primary cell	megakaryocyte-erythroid progenitor cell	polyA plus RNA-seq	1
+primary cell	pulmonary artery endothelial cell	ChIA-PET	1
+primary cell	pulmonary artery endothelial cell	DNase-seq	1
+primary cell	pulmonary artery endothelial cell	RNA microarray	1
+primary cell	pulmonary artery endothelial cell	total RNA-seq	1
+primary cell	splenic B cell	Histone ChIP-seq	2
+primary cell	splenic B cell	DNase-seq	1
+primary cell	splenic B cell	polyA plus RNA-seq	1
+primary cell	articular chondrocyte of knee joint	CAGE	1
+primary cell	articular chondrocyte of knee joint	small RNA-seq	1
+primary cell	articular chondrocyte of knee joint	total RNA-seq	1
+primary cell	brain pericyte	DNase-seq	1
+primary cell	brain pericyte	Hi-C	1
+primary cell	brain pericyte	RNA microarray	1
+primary cell	common myeloid progenitor	total RNA-seq	2
+primary cell	common myeloid progenitor	ATAC-seq	1
+primary cell	endometrial microvascular endothelial cells	Hi-C	1
+primary cell	endometrial microvascular endothelial cells	RAMPAGE	1
+primary cell	endometrial microvascular endothelial cells	total RNA-seq	1
+primary cell	epidermal melanocyte	DNase-seq	1
+primary cell	epidermal melanocyte	RRBS	1
+primary cell	epidermal melanocyte	genotyping array	1
+primary cell	erythroid progenitor cell	total RNA-seq	2
+primary cell	erythroid progenitor cell	ATAC-seq	1
+primary cell	fibroblast of skin of back	polyA plus RNA-seq	2
+primary cell	fibroblast of skin of back	DNase-seq	1
+primary cell	granulocyte monocyte progenitor cell	total RNA-seq	2
+primary cell	granulocyte monocyte progenitor cell	ATAC-seq	1
+primary cell	hair follicle dermal papilla cell	CAGE	1
+primary cell	hair follicle dermal papilla cell	small RNA-seq	1
+primary cell	hair follicle dermal papilla cell	total RNA-seq	1
+primary cell	megakaryocyte progenitor cell	total RNA-seq	2
+primary cell	megakaryocyte progenitor cell	ATAC-seq	1
+primary cell	mesenchymal stem cell of Wharton's jelly	CAGE	1
+primary cell	mesenchymal stem cell of Wharton's jelly	small RNA-seq	1
+primary cell	mesenchymal stem cell of Wharton's jelly	total RNA-seq	1
+primary cell	mesenchymal stem cell of adipose	CAGE	1
+primary cell	mesenchymal stem cell of adipose	small RNA-seq	1
+primary cell	mesenchymal stem cell of adipose	total RNA-seq	1
+primary cell	mesenchymal stem cell of the bone marrow	CAGE	1
+primary cell	mesenchymal stem cell of the bone marrow	small RNA-seq	1
+primary cell	mesenchymal stem cell of the bone marrow	total RNA-seq	1
+primary cell	placental epithelial cell	CAGE	1
+primary cell	placental epithelial cell	small RNA-seq	1
+primary cell	placental epithelial cell	total RNA-seq	1
+primary cell	placental pericyte	CAGE	1
+primary cell	placental pericyte	small RNA-seq	1
+primary cell	placental pericyte	total RNA-seq	1
+primary cell	subcutaneous preadipocyte	CAGE	1
+primary cell	subcutaneous preadipocyte	small RNA-seq	1
+primary cell	subcutaneous preadipocyte	total RNA-seq	1
+primary cell	thoracic aorta endothelial cell	CAGE	1
+primary cell	thoracic aorta endothelial cell	small RNA-seq	1
+primary cell	thoracic aorta endothelial cell	total RNA-seq	1
+primary cell	vein endothelial cell	CAGE	1
+primary cell	vein endothelial cell	small RNA-seq	1
+primary cell	vein endothelial cell	total RNA-seq	1
+primary cell	Purkinje cell	polyA plus RNA-seq	1
+primary cell	Purkinje cell	scRNA-seq	1
+primary cell	airway epithelial cell	RAMPAGE	1
+primary cell	airway epithelial cell	total RNA-seq	1
+primary cell	astrocyte of the hippocampus	DNase-seq	1
+primary cell	astrocyte of the hippocampus	RNA microarray	1
+primary cell	bronchus fibroblast of lung	RAMPAGE	1
+primary cell	bronchus fibroblast of lung	total RNA-seq	1
+primary cell	cardiac atrium fibroblast	RAMPAGE	1
+primary cell	cardiac atrium fibroblast	total RNA-seq	1
+primary cell	cardiac ventricle fibroblast	RAMPAGE	1
+primary cell	cardiac ventricle fibroblast	total RNA-seq	1
+primary cell	central memory CD4-positive, alpha-beta T cell	DNase-seq	2
+primary cell	effector CD4-positive, alpha-beta T cell	DNase-seq	2
+primary cell	fibroblast of gingiva	DNase-seq	1
+primary cell	fibroblast of gingiva	RNA microarray	1
+primary cell	fibroblast of peridontal ligament	DNase-seq	1
+primary cell	fibroblast of peridontal ligament	RNA microarray	1
+primary cell	fibroblast of skin of left biceps	DNase-seq	2
+primary cell	fibroblast of skin of left quadriceps	DNase-seq	2
+primary cell	fibroblast of the conjunctiva	DNase-seq	1
+primary cell	fibroblast of the conjunctiva	RNA microarray	1
+primary cell	fibroblast of upper back skin	DNase-seq	2
+primary cell	hair follicular keratinocyte	RAMPAGE	1
+primary cell	hair follicular keratinocyte	total RNA-seq	1
+primary cell	hepatic stellate cell	DNase-seq	1
+primary cell	hepatic stellate cell	RNA microarray	1
+primary cell	mammary microvascular endothelial cell	RAMPAGE	1
+primary cell	mammary microvascular endothelial cell	total RNA-seq	1
+primary cell	mesangial cell	RAMPAGE	1
+primary cell	mesangial cell	total RNA-seq	1
+primary cell	monocyte	ATAC-seq	1
+primary cell	monocyte	total RNA-seq	1
+primary cell	myometrial cell	RAMPAGE	1
+primary cell	myometrial cell	total RNA-seq	1
+primary cell	pericardium fibroblast	RAMPAGE	1
+primary cell	pericardium fibroblast	total RNA-seq	1
+primary cell	smooth muscle cell of the brain vasculature	DNase-seq	1
+primary cell	smooth muscle cell of the brain vasculature	RNA microarray	1
+primary cell	stem cell of epidermis	Repli-chip	2
+primary cell	suppressor macrophage	DNase-seq	2
+primary cell	CD14-negative NK cell	ATAC-seq	1
+primary cell	CD1c-positive myeloid dendritic cell	DNase-seq	1
+primary cell	CD4-positive helper T cell	DNase-seq	1
+primary cell	Muller cell	DNase-seq	1
+primary cell	T follicular helper cell	DNase-seq	1
+primary cell	T-helper 22 cell	DNase-seq	1
+primary cell	T-helper 9 cell	DNase-seq	1
+primary cell	activated CD4-positive, alpha-beta T cell	DNase-seq	1
+primary cell	amniotic stem cell	DNase-seq	1
+primary cell	bladder microvascular endothelial cell	total RNA-seq	1
+primary cell	bronchial smooth muscle cell	total RNA-seq	1
+primary cell	c-Kit-negative CD71-positive TER-119-positive erythroid progenitor cells	DNase-seq	1
+primary cell	c-Kit-positive CD71-negative TER-119-negative erythroid progenitor cells	DNase-seq	1
+primary cell	c-Kit-positive CD71-positive TER-119-negative erythroid progenitor cells	DNase-seq	1
+primary cell	c-Kit-positive CD71-positive TER-119-positive erythroid progenitor cells	DNase-seq	1
+primary cell	cerebellar granule cell	scRNA-seq	1
+primary cell	dedifferentiated amniotic fluid mesenchymal stem cell	DNase-seq	1
+primary cell	dermis lymphatic vessel endothelial cell	total RNA-seq	1
+primary cell	endothelial cell of coronary artery	total RNA-seq	1
+primary cell	endothelial cell of hepatic sinusoid	Hi-C	1
+primary cell	epithelial cell of umbilical artery	total RNA-seq	1
+primary cell	fibroblast	ChIA-PET	1
+primary cell	fibroblast of skin of right biceps	DNase-seq	1
+primary cell	fibroblast of skin of right quadriceps	DNase-seq	1
+primary cell	glomerular visceral epithelial cell	DNase-seq	1
+primary cell	induced T-regulatory cell	DNase-seq	1
+primary cell	inflammatory macrophage	DNase-seq	1
+primary cell	kidney capillary endothelial cell	DNase-seq	1
+primary cell	kidney glomerular epithelial cell	DNase-seq	1
+primary cell	kidney tubule cell	DNase-seq	1
+primary cell	leukemia stem cell	polyA plus RNA-seq	1
+primary cell	mature B cell	Hi-C	1
+primary cell	nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa	total RNA-seq	1
+primary cell	regular cardiac myocyte	total RNA-seq	1
+primary cell	smooth muscle cell of bladder	total RNA-seq	1
+primary cell	smooth muscle cell of the coronary artery	total RNA-seq	1
+primary cell	smooth muscle cell of the pulmonary artery	total RNA-seq	1
+primary cell	smooth muscle cell of the umbilical artery	total RNA-seq	1
+primary cell	smooth muscle cell of trachea	total RNA-seq	1
+primary cell	stromal cell of bone marrow	DNase-seq	1
+primary cell	tracheal epithelial cell	total RNA-seq	1
+primary cell	uterine smooth muscle cell	total RNA-seq	1
+whole organisms	whole organism	TF ChIP-seq	996
+whole organisms	whole organism	total RNA-seq	64
+whole organisms	whole organism	polyA plus RNA-seq	33
+whole organisms	whole organism	CAGE	15
+whole organisms	whole organism	PAS-seq	15
+whole organisms	whole organism	WGS	3
+whole organisms	whole organism	5' RLM RACE	2
+whole organisms	whole organism	Circulome-seq	1
+whole organisms	carcass	polyA plus RNA-seq	8
+whole organisms	carcass	CAGE	4
+whole organisms	carcass	total RNA-seq	4
+whole organisms	carcass	PAS-seq	1
+in vitro differentiated cells	neuronal stem cell	Histone ChIP-seq	27
+in vitro differentiated cells	neuronal stem cell	WGBS	2
+in vitro differentiated cells	neuronal stem cell	polyA plus RNA-seq	2
+in vitro differentiated cells	neuronal stem cell	DNase-seq	1
+in vitro differentiated cells	neuronal stem cell	Repli-chip	1
+in vitro differentiated cells	neuronal stem cell	small RNA-seq	1
+in vitro differentiated cells	mesenchymal stem cell	Histone ChIP-seq	27
+in vitro differentiated cells	mesenchymal stem cell	polyA plus RNA-seq	2
+in vitro differentiated cells	mesenchymal stem cell	DNase-seq	1
+in vitro differentiated cells	mesenchymal stem cell	Repli-chip	1
+in vitro differentiated cells	mesenchymal stem cell	WGBS	1
+in vitro differentiated cells	mesenchymal stem cell	small RNA-seq	1
+in vitro differentiated cells	endodermal cell	Mint-ChIP-seq	11
+in vitro differentiated cells	endodermal cell	Histone ChIP-seq	8
+in vitro differentiated cells	endodermal cell	Repli-chip	2
+in vitro differentiated cells	endodermal cell	WGBS	2
+in vitro differentiated cells	endodermal cell	microRNA-seq	2
+in vitro differentiated cells	endodermal cell	polyA plus RNA-seq	2
+in vitro differentiated cells	endodermal cell	total RNA-seq	2
+in vitro differentiated cells	endodermal cell	DNase-seq	1
+in vitro differentiated cells	endodermal cell	TF ChIP-seq	1
+in vitro differentiated cells	endodermal cell	long read RNA-seq	1
+in vitro differentiated cells	neural progenitor cell	Histone ChIP-seq	12
+in vitro differentiated cells	neural progenitor cell	Mint-ChIP-seq	5
+in vitro differentiated cells	neural progenitor cell	Repli-chip	3
+in vitro differentiated cells	neural progenitor cell	TF ChIP-seq	3
+in vitro differentiated cells	neural progenitor cell	ChIA-PET	1
+in vitro differentiated cells	neural progenitor cell	DNAme array	1
+in vitro differentiated cells	neural progenitor cell	DNase-seq	1
+in vitro differentiated cells	neural progenitor cell	RAMPAGE	1
+in vitro differentiated cells	neural progenitor cell	microRNA counts	1
+in vitro differentiated cells	neural progenitor cell	microRNA-seq	1
+in vitro differentiated cells	neural progenitor cell	small RNA-seq	1
+in vitro differentiated cells	neural progenitor cell	total RNA-seq	1
+in vitro differentiated cells	myocyte	TF ChIP-seq	16
+in vitro differentiated cells	myocyte	Histone ChIP-seq	6
+in vitro differentiated cells	myocyte	microRNA-seq	2
+in vitro differentiated cells	myocyte	polyA plus RNA-seq	2
+in vitro differentiated cells	myocyte	DNase-seq	1
+in vitro differentiated cells	myocyte	microRNA counts	1
+in vitro differentiated cells	myocyte	total RNA-seq	1
+in vitro differentiated cells	hepatocyte	Histone ChIP-seq	12
+in vitro differentiated cells	hepatocyte	Repli-chip	3
+in vitro differentiated cells	hepatocyte	TF ChIP-seq	3
+in vitro differentiated cells	hepatocyte	ChIA-PET	1
+in vitro differentiated cells	hepatocyte	DNAme array	1
+in vitro differentiated cells	hepatocyte	DNase-seq	1
+in vitro differentiated cells	hepatocyte	RAMPAGE	1
+in vitro differentiated cells	hepatocyte	WGBS	1
+in vitro differentiated cells	hepatocyte	microRNA counts	1
+in vitro differentiated cells	hepatocyte	microRNA-seq	1
+in vitro differentiated cells	hepatocyte	polyA plus RNA-seq	1
+in vitro differentiated cells	hepatocyte	small RNA-seq	1
+in vitro differentiated cells	hepatocyte	total RNA-seq	1
+in vitro differentiated cells	neural cell	Histone ChIP-seq	12
+in vitro differentiated cells	neural cell	TF ChIP-seq	9
+in vitro differentiated cells	neural cell	small RNA-seq	3
+in vitro differentiated cells	neural cell	MS-MS	1
+in vitro differentiated cells	neural cell	RAMPAGE	1
+in vitro differentiated cells	neural cell	polyA minus RNA-seq	1
+in vitro differentiated cells	neural cell	polyA plus RNA-seq	1
+in vitro differentiated cells	trophoblast cell	Histone ChIP-seq	24
+in vitro differentiated cells	trophoblast cell	DNase-seq	1
+in vitro differentiated cells	trophoblast cell	WGBS	1
+in vitro differentiated cells	trophoblast cell	polyA plus RNA-seq	1
+in vitro differentiated cells	trophoblast cell	small RNA-seq	1
+in vitro differentiated cells	myotube	Histone ChIP-seq	11
+in vitro differentiated cells	myotube	genotyping array	3
+in vitro differentiated cells	myotube	DNAme array	2
+in vitro differentiated cells	myotube	RNA microarray	2
+in vitro differentiated cells	myotube	RRBS	2
+in vitro differentiated cells	myotube	TF ChIP-seq	2
+in vitro differentiated cells	myotube	DNase-seq	1
+in vitro differentiated cells	myotube	RAMPAGE	1
+in vitro differentiated cells	myotube	long read RNA-seq	1
+in vitro differentiated cells	myotube	total RNA-seq	1
+in vitro differentiated cells	mesendoderm	Histone ChIP-seq	19
+in vitro differentiated cells	mesendoderm	polyA plus RNA-seq	2
+in vitro differentiated cells	mesendoderm	DNase-seq	1
+in vitro differentiated cells	mesendoderm	Repli-chip	1
+in vitro differentiated cells	mesendoderm	WGBS	1
+in vitro differentiated cells	mesendoderm	small RNA-seq	1
+in vitro differentiated cells	smooth muscle cell	Histone ChIP-seq	12
+in vitro differentiated cells	smooth muscle cell	Repli-chip	2
+in vitro differentiated cells	smooth muscle cell	WGBS	2
+in vitro differentiated cells	smooth muscle cell	DNAme array	1
+in vitro differentiated cells	smooth muscle cell	RAMPAGE	1
+in vitro differentiated cells	smooth muscle cell	TF ChIP-seq	1
+in vitro differentiated cells	smooth muscle cell	genotyping array	1
+in vitro differentiated cells	smooth muscle cell	microRNA counts	1
+in vitro differentiated cells	smooth muscle cell	microRNA-seq	1
+in vitro differentiated cells	smooth muscle cell	polyA plus RNA-seq	1
+in vitro differentiated cells	smooth muscle cell	small RNA-seq	1
+in vitro differentiated cells	smooth muscle cell	total RNA-seq	1
+in vitro differentiated cells	ectodermal cell	Histone ChIP-seq	6
+in vitro differentiated cells	ectodermal cell	polyA plus RNA-seq	4
+in vitro differentiated cells	ectodermal cell	WGBS	2
+in vitro differentiated cells	neural crest cell	Mint-ChIP-seq	5
+in vitro differentiated cells	neural crest cell	Repli-chip	2
+in vitro differentiated cells	neural crest cell	DNase-seq	1
+in vitro differentiated cells	neural crest cell	TF ChIP-seq	1
+in vitro differentiated cells	neural crest cell	long read RNA-seq	1
+in vitro differentiated cells	neural crest cell	microRNA-seq	1
+in vitro differentiated cells	neural crest cell	total RNA-seq	1
+in vitro differentiated cells	cardiac muscle cell	Histone ChIP-seq	6
+in vitro differentiated cells	cardiac muscle cell	DNase-seq	1
+in vitro differentiated cells	cardiac muscle cell	RAMPAGE	1
+in vitro differentiated cells	cardiac muscle cell	TF ChIP-seq	1
+in vitro differentiated cells	cardiac muscle cell	polyA plus RNA-seq	1
+in vitro differentiated cells	cardiac muscle cell	total RNA-seq	1
+in vitro differentiated cells	astrocyte	Mint-ChIP-seq	6
+in vitro differentiated cells	astrocyte	DNase-seq	1
+in vitro differentiated cells	astrocyte	TF ChIP-seq	1
+in vitro differentiated cells	astrocyte	microRNA-seq	1
+in vitro differentiated cells	astrocyte	total RNA-seq	1
+in vitro differentiated cells	endothelial cell	Mint-ChIP-seq	6
+in vitro differentiated cells	endothelial cell	TF ChIP-seq	1
+in vitro differentiated cells	endothelial cell	long read RNA-seq	1
+in vitro differentiated cells	endothelial cell	microRNA-seq	1
+in vitro differentiated cells	endothelial cell	total RNA-seq	1
+in vitro differentiated cells	excitatory neuron	Mint-ChIP-seq	6
+in vitro differentiated cells	excitatory neuron	TF ChIP-seq	1
+in vitro differentiated cells	excitatory neuron	long read RNA-seq	1
+in vitro differentiated cells	excitatory neuron	microRNA-seq	1
+in vitro differentiated cells	excitatory neuron	total RNA-seq	1
+in vitro differentiated cells	mesodermal cell	Histone ChIP-seq	5
+in vitro differentiated cells	mesodermal cell	WGBS	2
+in vitro differentiated cells	mesodermal cell	polyA plus RNA-seq	2
+in vitro differentiated cells	mesodermal cell	Repli-chip	1
+in vitro differentiated cells	osteocyte	Mint-ChIP-seq	6
+in vitro differentiated cells	osteocyte	TF ChIP-seq	1
+in vitro differentiated cells	osteocyte	long read RNA-seq	1
+in vitro differentiated cells	osteocyte	microRNA-seq	1
+in vitro differentiated cells	osteocyte	total RNA-seq	1
+in vitro differentiated cells	progenitor cell of endocrine pancreas	Mint-ChIP-seq	5
+in vitro differentiated cells	progenitor cell of endocrine pancreas	DNase-seq	1
+in vitro differentiated cells	progenitor cell of endocrine pancreas	TF ChIP-seq	1
+in vitro differentiated cells	progenitor cell of endocrine pancreas	long read RNA-seq	1
+in vitro differentiated cells	progenitor cell of endocrine pancreas	microRNA-seq	1
+in vitro differentiated cells	progenitor cell of endocrine pancreas	total RNA-seq	1
+in vitro differentiated cells	type B pancreatic cell	Mint-ChIP-seq	6
+in vitro differentiated cells	type B pancreatic cell	TF ChIP-seq	1
+in vitro differentiated cells	type B pancreatic cell	long read RNA-seq	1
+in vitro differentiated cells	type B pancreatic cell	microRNA-seq	1
+in vitro differentiated cells	type B pancreatic cell	total RNA-seq	1
+in vitro differentiated cells	mesothelial cell of epicardium	Mint-ChIP-seq	6
+in vitro differentiated cells	mesothelial cell of epicardium	DNase-seq	1
+in vitro differentiated cells	mesothelial cell of epicardium	TF ChIP-seq	1
+in vitro differentiated cells	mesothelial cell of epicardium	total RNA-seq	1
+in vitro differentiated cells	adipocyte	Histone ChIP-seq	6
+in vitro differentiated cells	adipocyte	DNase-seq	2
+in vitro differentiated cells	hematopoietic multipotent progenitor cell	DNase-seq	3
+in vitro differentiated cells	hematopoietic multipotent progenitor cell	CAGE	1
+in vitro differentiated cells	hematopoietic multipotent progenitor cell	Repli-chip	1
+in vitro differentiated cells	hematopoietic multipotent progenitor cell	polyA plus RNA-seq	1
+in vitro differentiated cells	hematopoietic multipotent progenitor cell	small RNA-seq	1
+in vitro differentiated cells	hematopoietic multipotent progenitor cell	total RNA-seq	1
+in vitro differentiated cells	chondrocyte	Mint-ChIP-seq	4
+in vitro differentiated cells	chondrocyte	TF ChIP-seq	1
+in vitro differentiated cells	chondrocyte	microRNA-seq	1
+in vitro differentiated cells	chondrocyte	total RNA-seq	1
+in vitro differentiated cells	nephron progenitor cell	Mint-ChIP-seq	5
+in vitro differentiated cells	nephron progenitor cell	DNase-seq	1
+in vitro differentiated cells	nephron progenitor cell	TF ChIP-seq	1
+in vitro differentiated cells	neuron	Histone ChIP-seq	6
+in vitro differentiated cells	mid-neurogenesis radial glial cells	Histone ChIP-seq	4
+in vitro differentiated cells	neuroepithelial stem cell	Histone ChIP-seq	4
+in vitro differentiated cells	radial glial cell	Histone ChIP-seq	4
+in vitro differentiated cells	splanchnic mesodermal cell	Repli-chip	3
+in vitro differentiated cells	dendritic cell	SPRITE	1
+in vitro differentiated cells	dendritic cell	scRNA-seq	1
+in vitro differentiated cells	erythroid progenitor cell	Repli-chip	2
+in vitro differentiated cells	mesothelial cell	Repli-chip	2
+in vitro differentiated cells	myeloid cell	Repli-chip	2
+in vitro differentiated cells	definitive endodermal cell	Repli-chip	1
+in vitro differentiated cells	ecto neural progenitor cell	DNase-seq	1
+in vitro differentiated cells	endocrine cell	Repli-chip	1
+in vitro differentiated cells	islet precursor cell	DNase-seq	1
+in vitro differentiated cells	lateral mesodermal cell	Repli-chip	1
+in vitro differentiated cells	primitive gut cell	Repli-chip	1
+cell-free sample	cell-free sample	RNA Bind-n-Seq	102
+organoid	brain	Mint-ChIP-seq	26
+organoid	brain	TF ChIP-seq	3
+organoid	nephron	Mint-ChIP-seq	15
+organoid	nephron	TF ChIP-seq	3
+technical sample	technical sample	long read RNA-seq	7
+technical sample	technical sample	total RNA-seq	1
